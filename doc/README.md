@@ -1,2 +1,2 @@
-# cybersecurity :credit_card: :lock:  
+# cybersecurity :orange_book:  
  
