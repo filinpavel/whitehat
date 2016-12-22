@@ -7,7 +7,7 @@
 *
 *
 *
-*
+* Resources:
 ##Enumeration
 *
 *
@@ -22,12 +22,12 @@
 *
 *
 *
-*
+* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis)
 ##Sniffing
 *
 *
 *
-*
+* Resources:
 ##Social Engineering
 *
 *
@@ -52,7 +52,7 @@
 *
 *
 *
-*
+* Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
 ##SQL Injection
 *
 *
@@ -67,12 +67,12 @@
 *
 *
 *
-*
+* Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome)
 ##Evading IDS, Firewalls and Honeypots
 *
 *
 *
-*
+* Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
 ##Cloud Computing
 *
 *
