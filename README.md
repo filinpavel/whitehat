@@ -8,6 +8,7 @@
 *
 *
 * Resources:
+
 ##Enumeration
 *
 *
@@ -18,16 +19,19 @@
 *
 *
 *
+
 ##Malware Threats
 *
 *
 *
 * Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis)
+
 ##Sniffing
 *
 *
 *
 * Resources:
+
 ##Social Engineering
 *
 *
@@ -39,10 +43,27 @@
 *
 *
 ##Session Hacking
-*
-*
-*
-*
+* [Session hijacking](https://en.wikipedia.org/wiki/Session_hijacking)
+* [Spoofing](https://en.wikipedia.org/wiki/Spoofing_attack)
+* Application Level Session hijacking:
+ * [Session fixation](https://en.wikipedia.org/wiki/Session_fixation)
+ * [Cross-site scripting (XSS)](https://en.wikipedia.org/wiki/Cross-site_scripting)
+ * [Cross-site Request Forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+ * [Browser hijacking](https://en.wikipedia.org/wiki/Browser_hijacking)
+ * [Session poisoning](https://en.wikipedia.org/wiki/Session_poisoning)
+ * [Man-in-the-browser](https://en.wikipedia.org/wiki/Man-in-the-browser)
+ * [Man-in-the-middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+ * [Session Replay](https://en.wikipedia.org/wiki/Session_replay)
+* Network-level Session Hijacking:
+ * [IP Spoofing](https://en.wikipedia.org/wiki/IP_address_spoofing)
+ * [Packet Sniffing](https://en.wikipedia.org/wiki/Packet_analyzer)
+ * TCP/IP Hijacking
+ * UDP Hijacking
+ * Blind Hijacking
+ * [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
+* [IPSec](https://en.wikipedia.org/wiki/IPsec)
+* Tools: [OWASP Zaproxy](https://github.com/zaproxy/zaproxy), [Burp Suite](https://portswigger.net/burp/), [Firebug](https://developer.mozilla.org/en-US/docs/Tools), [Ettercap](https://ettercap.github.io/ettercap/), [sslstrip](https://github.com/moxie0/sslstrip),[Websploit](http://sourceforge.net/projects/websploit/), DroidSheep, DroidSniff
+
 ##Hacking Webservers
 *
 *
@@ -53,6 +74,7 @@
 *
 *
 * Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
+
 ##SQL Injection
 *
 *
@@ -68,11 +90,13 @@
 *
 *
 * Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome)
+
 ##Evading IDS, Firewalls and Honeypots
 *
 *
 *
 * Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
+
 ##Cloud Computing
 *
 *
@@ -104,7 +128,7 @@
 * [Secure Sockets Layer (SSL)](https://en.wikipedia.org/wiki/Transport_Layer_Security)
  * Tools: [OpenSSL](https://www.openssl.org/), [GnuTLS](http://gnutls.org/), [LibreSSL](http://www.libressl.org/), [stunnel](https://www.stunnel.org/index.html), [Keyczar](https://github.com/google/keyczar)
 * [Disk Encryption](https://en.wikipedia.org/wiki/Disk_encryption)
- 
+ *
 * Case styudy: [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed), [Poodle](https://en.wikipedia.org/wiki/POODLE)
 * Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography)
 *
