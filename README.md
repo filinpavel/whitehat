@@ -1,21 +1,21 @@
 
-* [Footprinting and Reconnaissance]()
-* [Scanning Networks]()
-* [Enumeration]()
-* [System Hacking]()
-* [Malware Threats]()
-* [Sniffing]()
-* [Social Engineering]()
-* [Denial-of-Service]()
-* [Session Hacking]()
-* [Hacking Webservers]()
-* [Hacking Web Applications]()
-* [SQL Injection]()
-* [Hacking Wireless Networks]()
-* [Hacking Mobile Platforms]()
-* [Evading IDS, Firewalls and Honeypots]()
-* [Cloud Computing]()
-* [Cryptography]()
+* [Footprinting and Reconnaissance](#footprinting-and-reconnaissance)
+* [Scanning Networks](#scanning-networks)
+* [Enumeration](#enumeration)
+* [System Hacking](#system-hacking)
+* [Malware Threats](#malware-threats)
+* [Sniffing](#sniffing)
+* [Social Engineering](#social-engineering)
+* [Denial-of-Service](#denial-of-service)
+* [Session Hacking](#session-hacking)
+* [Hacking Webservers](#hacking-webservers)
+* [Hacking Web Applications](#hacking-web-applications)
+* [SQL Injection](#sql-injection)
+* [Hacking Wireless Networks](#hacking-wireless-networks)
+* [Hacking Mobile Platforms](#hacking-mobile-platform)
+* [Evading IDS, Firewalls and Honeypots](#evading-ids-firewalls-and-honeypots)
+* [Cloud Computing](#cloud-computing)
+* [Cryptography](#cryptography)
 
 
 ## Footprinting and Reconnaissance
@@ -40,7 +40,7 @@
   * Resources: [Powersearching](http://www.powersearchingwithgoogle.com/), [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)
  * Footprinting using Social Media
  * Website footprinting
-  * Tools: [OWASP Zaproxy](), [Burp Suite](), WebSpiders, HTTrack, GNU Wget
+  * Tools: [OWASP Zaproxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [Burp Suite](https://portswigger.net/burp/), WebSpiders, HTTrack, GNU Wget
  * Email footprinting
  * WHOIS footprinting
  * DNS footprinting
