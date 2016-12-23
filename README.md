@@ -21,35 +21,35 @@
 ## Footprinting and Reconnaissance
 *  [Footprinting](https://en.wikipedia.org/wiki/Footprinting)
 * Objectives: 
- * Collect Network Information
- * Collect System Information
- * Collect Organisation's Information
+  * Collect Network Information
+  * Collect System Information
+  * Collect Organisation's Information
 * Methods:
- * Footprinting through Search Engines
-   * Search for Public and Restricted Wesites
-   * Operating System Identification
-    * Tools: [Netcraft](http://netcraft.com), [SHODAN](http://shodan.io)
-   * Get Location Information:
-    * Tools: [Google Maps](https://maps.google.com), [Yandex Panorama](https://yandex.ru/maps) 
-   * Social Networking Sites (SNS) and People Search Services
-    * Tools: Linkedin, Facebook, Twitter,  Vkontakte, Odnoklassniki
-   * Collect Financial Information
-   * Searching through Job Sites
-    * Tools: Linkedin, Monster.com, HH.ru, zarplata.ru
- * Footprinting using Google Dorks
+  * Footprinting through Search Engines
+    * Search for Public and Restricted Wesites
+  * Operating System Identification
+     * Tools: [Netcraft](http://netcraft.com), [SHODAN](http://shodan.io)
+  * Get Location Information:
+     * Tools: [Google Maps](https://maps.google.com), [Yandex Panorama](https://yandex.ru/maps) 
+  * Social Networking Sites (SNS) and People Search Services
+     * Tools: Linkedin, Facebook, Twitter,  Vkontakte, Odnoklassniki
+  * Collect Financial Information
+  * Searching through Job Sites
+     * Tools: Linkedin, Monster.com, HH.ru, zarplata.ru
+  * Footprinting using Google Dorks
   * Resources: [Powersearching](http://www.powersearchingwithgoogle.com/), [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)
- * Footprinting using Social Media
- * Website footprinting
-  * Tools: [OWASP Zaproxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [Burp Suite](https://portswigger.net/burp/), WebSpiders, HTTrack, GNU Wget
- * Email footprinting
- * WHOIS footprinting
- * DNS footprinting
-  * Tools: DNSstuff
- * Network footprinting
-  * Tools: [Qualys SSl LAB](http://ssllab.com), traceroute
- * Footprinting using Social Engineering
+  * Footprinting using Social Media
+  * Website footprinting
+    * Tools: [OWASP Zaproxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [Burp Suite](https://portswigger.net/burp/), WebSpiders, HTTrack, GNU Wget
+  * Email footprinting
+  * WHOIS footprinting
+  * DNS footprinting
+    * Tools: DNSstuff
+  * Network footprinting
+    * Tools: [Qualys SSl LAB](http://ssllab.com), traceroute
+  * Footprinting using Social Engineering
  * Tools: [Maltego](https://www.paterva.com/web7/buy/maltego-clients.php), [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng), FOCA, [Metagoofil](http://www.edge-security.com/metagoofil.php)
- * 
+ * Resources: [Aewsome-OSINT](https://github.com/jivoi/awesome-osint)
 ## Scanning Networks
 *
 *
