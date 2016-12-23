@@ -49,6 +49,7 @@
   * Tools: [Qualys SSl LAB](http://ssllab.com), traceroute
  * Footprinting using Social Engineering
  * Tools: [Maltego](https://www.paterva.com/web7/buy/maltego-clients.php), [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng), FOCA, [Metagoofil](http://www.edge-security.com/metagoofil.php)
+ * 
 ## Scanning Networks
 *
 *
@@ -60,6 +61,7 @@
 *
 *
 *
+
 ## System Hacking
 *
 *
@@ -83,11 +85,13 @@
 *
 *
 *
+
 ## Denial-of-Service
 *
 *
 *
 *
+
 ## Session Hacking
 * [Session hijacking](https://en.wikipedia.org/wiki/Session_hijacking)
 * [Spoofing](https://en.wikipedia.org/wiki/Spoofing_attack)
@@ -115,6 +119,7 @@
 *
 *
 *
+
 ## Hacking Web Applications
 *
 *
@@ -126,11 +131,13 @@
 * 
 *
 * Tools: [SQLmap](http://sqlmap.org/)
+
 ## Hacking Wireless Networks
 *
 *
 *
 *
+
 ## Hacking Mobile Platforms
 *
 *
@@ -148,6 +155,7 @@
 *
 *
 *
+
 ## Cryptography
 * [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
  * Objectives: Confidentiality, [Integrity](https://en.wikipedia.org/wiki/Data_integrity), [Authenication](https://en.wikipedia.org/wiki/Authentication), [Non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
