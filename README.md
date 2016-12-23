@@ -1,8 +1,34 @@
 ##Footprinting and Reconnaissance
-*
-*
-*
-*
+*  [Footprinting](https://en.wikipedia.org/wiki/Footprinting)
+* Objectives: 
+ * Collect Network Information
+ * Collect System Information
+ * Collect Organisation's Information
+* Methods:
+ * Footprinting through Search Engines
+   * Search for Public and Restricted Wesites
+   * Operating System Identification
+    * Tools: [Netcraft](http://netcraft.com), [SHODAN](http://shodan.io)
+   * Get Lotation Information:
+    * Tools: [Google Maps](https://maps.google.com), [Yandex Panorama](https://yandex.ru/maps) 
+   * Social Networking Sites (SNS) and People Search Services
+    * Tools: Linkedin, Facebook, Twitter,  Vkontakte, Odnoklassniki
+   * Collect Financial Information
+   * Searching through Job Sites
+    * Tools: Linkedin, Mons1ter.com, HH.ru, zarplata.ru
+ * Footprinting using Google Dorks
+  * Resources: [Powersearching](http://www.powersearchingwithgoogle.com/), [Google Hadcking Database](https://www.exploit-db.com/google-hacking-database/)
+ * Footprinting using Social Media
+ * Website footprinting
+  * Tools: [OWASP Zaproxy](), [Burp Suite](), WebSpiders, HTTrack, GNU Wget
+ * Email footprinting
+ * WHOIS footprinting
+ * DNS footprinting
+  * Tools: DNSstuff
+ * Network footprinting
+  * Tools: [Qualys SSl LAB](http://ssllab.com), traceroute
+ * Footprinting using Social Engineering
+ * Tools: Maltego, recon-ng, FOCA, Metagoofil
 ##Scanning Networks
 *
 *
