@@ -1,4 +1,24 @@
-##Footprinting and Reconnaissance
+
+* [Footprinting and Reconnaissance]()
+* [Scanning Networks]()
+* [Enumeration]()
+* [System Hacking]()
+* [Malware Threats]()
+* [Sniffing]()
+* [Social Engineering]()
+* [Denial-of-Service]()
+* [Session Hacking]()
+* [Hacking Webservers]()
+* [Hacking Web Applications]()
+* [SQL Injection]()
+* [Hacking Wireless Networks]()
+* [Hacking Mobile Platforms]()
+* [Evading IDS, Firewalls and Honeypots]()
+* [Cloud Computing]()
+* [Cryptography]()
+
+
+## Footprinting and Reconnaissance
 *  [Footprinting](https://en.wikipedia.org/wiki/Footprinting)
 * Objectives: 
  * Collect Network Information
@@ -29,46 +49,46 @@
   * Tools: [Qualys SSl LAB](http://ssllab.com), traceroute
  * Footprinting using Social Engineering
  * Tools: [Maltego](https://www.paterva.com/web7/buy/maltego-clients.php), [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng), FOCA, [Metagoofil](http://www.edge-security.com/metagoofil.php)
-##Scanning Networks
+## Scanning Networks
 *
 *
 *
 * Resources:
 
-##Enumeration
+## Enumeration
 *
 *
 *
 *
-##System Hacking
+## System Hacking
 *
 *
 *
 *
 
-##Malware Threats
+## Malware Threats
 *
 *
 *
 * Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis)
 
-##Sniffing
+## Sniffing
 *
 *
 *
 * Resources:
 
-##Social Engineering
+## Social Engineering
 *
 *
 *
 *
-##Denial-of-Service
+## Denial-of-Service
 *
 *
 *
 *
-##Session Hacking
+## Session Hacking
 * [Session hijacking](https://en.wikipedia.org/wiki/Session_hijacking)
 * [Spoofing](https://en.wikipedia.org/wiki/Spoofing_attack)
 * Application Level Session hijacking:
@@ -90,45 +110,45 @@
 * [IPSec](https://en.wikipedia.org/wiki/IPsec)
 * Tools: [OWASP Zaproxy](https://github.com/zaproxy/zaproxy), [Burp Suite](https://portswigger.net/burp/), [Firebug](https://developer.mozilla.org/en-US/docs/Tools), [Ettercap](https://ettercap.github.io/ettercap/), [sslstrip](https://github.com/moxie0/sslstrip),[Websploit](http://sourceforge.net/projects/websploit/), DroidSheep, DroidSniff
 
-##Hacking Webservers
+## Hacking Webservers
 *
 *
 *
 *
-##Hacking Web Applications
+## Hacking Web Applications
 *
 *
 *
 * Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
 
-##SQL Injection
+## SQL Injection
 * [SQLi](https://en.wikipedia.org/wiki/SQL_injection)
 * 
 *
 * Tools: [SQLmap](http://sqlmap.org/)
-##Hacking Wireless Networks
+## Hacking Wireless Networks
 *
 *
 *
 *
-##Hacking Mobile Platforms
+## Hacking Mobile Platforms
 *
 *
 *
 * Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome)
 
-##Evading IDS, Firewalls and Honeypots
+## Evading IDS, Firewalls and Honeypots
 *
 *
 *
 * Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
 
-##Cloud Computing
+## Cloud Computing
 *
 *
 *
 *
-##Cryptography
+## Cryptography
 * [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
  * Objectives: Confidentiality, [Integrity](https://en.wikipedia.org/wiki/Data_integrity), [Authenication](https://en.wikipedia.org/wiki/Authentication), [Non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
  * Types: [Asymmetric](https://en.wikipedia.org/wiki/Public-key_cryptography), [Symmetric](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
