@@ -14,6 +14,8 @@
 * [Hacking Wireless Networks](#hacking-wireless-networks)
 * [Hacking Mobile Platforms](#hacking-mobile-platform)
 * [Evading IDS, Firewalls and Honeypots](#evading-ids-firewalls-and-honeypots)
+* [Forensics](#forensics)
+* [Reverse Engineering](#reverse-engineering)
 * [Cloud Computing](#cloud-computing)
 * [Cryptography](#cryptography)
 
@@ -48,17 +50,19 @@
   * DNS footprinting
     * Tools: DNSstuff
   * Network footprinting: [TCP/IP stack fingerprinting](https://en.wikipedia.org/wiki/TCP/IP_stack_fingerprinting)
-    * Tools: [Qualys SSl LAB](http://ssllab.com), traceroute, Nmap, p0f
+    * Tools: [Qualys SSl LAB](http://ssllab.com/sslscan), traceroute, Nmap, p0f
   * Footprinting using Social Engineering
  * Tools: [Maltego](https://www.paterva.com/web7/buy/maltego-clients.php), [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng), FOCA, [Metagoofil](http://www.edge-security.com/metagoofil.php)
- * Resources: [Aewsome-OSINT](https://github.com/jivoi/awesome-osint)
+ * Resources: [Awesome-OSINT](https://github.com/jivoi/awesome-osint)
  
 ## Scanning Networks
 * Objectives:
   * Discover IP address and open [ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+    * Tools: [Nmap](https://nmap.org), [Hping](), [nping](), [scapy](https://github.com/secdev/scapy), [SolarWinds Engineers Toolset](http://www.solarwinds.com/engineers-toolset)
   * Discover [operating system](https://en.wikipedia.org/wiki/Operating_system)
   * Discover services runing
-  * Discover [vulnerabilities](https://en.wikipedia.org/wiki/Vulnerability_(computing))
+  * Discover [vulnerabilities](https://en.wikipedia.org/wiki/Vulnerability_(computing)):
+    * Tools: [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner), [OpenVAS](http://www.openvas.org/), [Microsoft Baseline Security Analyzer](https://technet.microsoft.com/ru-ru/security/cc184924.aspx) 
 * Methods: 
   * [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) Scanning, [Ping Sweep](https://en.wikipedia.org/wiki/Ping_sweep)
   * [SSDP](https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol) Scanning
@@ -69,8 +73,7 @@
   * [ACK Flag Probe Scan](https://en.wikipedia.org/wiki/Port_scanner#ACK_scanning)
   * [IDLE Scan](https://en.wikipedia.org/wiki/Idle_scan)
   * [UDP Scanning](https://en.wikipedia.org/wiki/Port_scanner#UDP_scanning)
-* Tools: [Nmap](), [Hping](), [nping](), [scapy](https://github.com/secdev/scapy), [SolarWinds Engineers Toolset](http://www.solarwinds.com/engineers-toolset), amap, SPARTA, Nessus, OpenVAS, Microsoft Baseline Security Analyzer
-* Resources: [Qualys FreeScan](https://freescan.qualys.com/freescan-front/)
+* Resources: [Qualys FreeScan](https://freescan.qualys.com/freescan-front/), [High-Tech Bridge Free SSL Test](https://www.htbridge.com/ssl/)
 
 ## Enumeration
 *
@@ -165,6 +168,18 @@
 *
 *
 * Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
+
+## Forensics
+*
+*
+*
+* Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response)
+
+## Reverse Engineering
+*
+*
+*
+* Resources: [Awesome-Reversing](https://github.com/tylerph3/awesome-reversing)
 
 ## Cloud Computing
 *
