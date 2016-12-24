@@ -87,7 +87,7 @@
 *
 *
 
-## Malware Threats
+## [Malware](https://en.wikipedia.org/wiki/Malware) Threats, [Trojans](https://en.wikipedia.org/wiki/Trojan_horse_(computing)) and [Viruses](https://en.wikipedia.org/wiki/Computer_virus)
 *
 *
 *
@@ -99,20 +99,19 @@
 *
 * Resources:
 
-## Social Engineering
+## [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security))
 *
 *
 *
 *
 
-## Denial-of-Service
+## [Denial-of-Service](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+* 
 *
 *
-*
-*
+* Resources: [RFC4732](https://tools.ietf.org/html/rfc4732)
 
-## Session Hacking
-* [Session hijacking](https://en.wikipedia.org/wiki/Session_hijacking)
+## [Session Hacking](https://en.wikipedia.org/wiki/Session_hijacking)
 * [Spoofing](https://en.wikipedia.org/wiki/Spoofing_attack)
 * Application Level Session hijacking:
  * [Session fixation](https://en.wikipedia.org/wiki/Session_fixation)
@@ -145,8 +144,8 @@
 *
 * Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
 
-## SQL Injection
-* [SQLi](https://en.wikipedia.org/wiki/SQL_injection)
+## [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
+* 
 * 
 *
 * Tools: [SQLmap](http://sqlmap.org/)
@@ -163,32 +162,31 @@
 *
 * Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome)
 
-## Evading IDS, Firewalls and Honeypots
-*
+## Evading [IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system), [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) and [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
+* 
 *
 *
 * Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
 
-## Forensics
+## [Forensics](https://en.wikipedia.org/wiki/Digital_forensics)
 *
 *
 *
 * Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response)
 
-## Reverse Engineering
+## [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 *
 *
 *
 * Resources: [Awesome-Reversing](https://github.com/tylerph3/awesome-reversing)
 
-## Cloud Computing
+## [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
 *
 *
 *
 *
 
-## Cryptography
-* [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
+## [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
  * Objectives: Confidentiality, [Integrity](https://en.wikipedia.org/wiki/Data_integrity), [Authenication](https://en.wikipedia.org/wiki/Authentication), [Non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
  * Types: [Asymmetric](https://en.wikipedia.org/wiki/Public-key_cryptography), [Symmetric](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 * [Data Encryption Standart (DES)](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
@@ -214,6 +212,6 @@
  * Tools: [OpenSSL](https://www.openssl.org/), [GnuTLS](http://gnutls.org/), [LibreSSL](http://www.libressl.org/), [stunnel](https://www.stunnel.org/index.html), [Keyczar](https://github.com/google/keyczar)
 * [Disk Encryption](https://en.wikipedia.org/wiki/Disk_encryption)
  * Tools: [VeraCrypt](https://sourceforge.net/projects/veracrypt/), []()
-* Case styudy: [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed), [Poodle](https://en.wikipedia.org/wiki/POODLE)
+* Case study: [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed), [Poodle](https://en.wikipedia.org/wiki/POODLE)
 * Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography)
 
