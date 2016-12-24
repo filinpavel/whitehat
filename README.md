@@ -33,27 +33,36 @@
      * Tools: [Google Maps](https://maps.google.com), [Yandex Panorama](https://yandex.ru/maps) 
   * Social Networking Sites (SNS) and People Search Services
      * Tools: Linkedin, Facebook, Twitter,  Vkontakte, Odnoklassniki
-  * Collect Financial Information
+  * Collect Financial Information and [Financial Intelligence](https://en.wikipedia.org/wiki/Financial_intelligence)
   * Searching through Job Sites
      * Tools: Linkedin, Monster.com, HH.ru, zarplata.ru
-  * Footprinting using Google Dorks
-  * Resources: [Powersearching](http://www.powersearchingwithgoogle.com/), [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)
+  * Footprinting using [Google Dorks](https://en.wikipedia.org/wiki/Google_hacking)
+    * Resources: [Powersearching](http://www.powersearchingwithgoogle.com/), [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)
   * Footprinting using Social Media
+  * [Competitive intelligence](https://en.wikipedia.org/wiki/Competitive_intelligence)
   * Website footprinting
     * Tools: [OWASP Zaproxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [Burp Suite](https://portswigger.net/burp/), WebSpiders, HTTrack, GNU Wget
   * Email footprinting
-  * WHOIS footprinting
+  * [WHOIS](https://en.wikipedia.org/wiki/WHOIS) footprinting
+    * Resources: [RU-CENTER](https://www.nic.ru/whois/en/)
   * DNS footprinting
     * Tools: DNSstuff
-  * Network footprinting
-    * Tools: [Qualys SSl LAB](http://ssllab.com), traceroute
+  * Network footprinting: [TCP/IP stack fingerprinting](https://en.wikipedia.org/wiki/TCP/IP_stack_fingerprinting)
+    * Tools: [Qualys SSl LAB](http://ssllab.com), traceroute, Nmap, p0f
   * Footprinting using Social Engineering
  * Tools: [Maltego](https://www.paterva.com/web7/buy/maltego-clients.php), [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng), FOCA, [Metagoofil](http://www.edge-security.com/metagoofil.php)
  * Resources: [Aewsome-OSINT](https://github.com/jivoi/awesome-osint)
+ 
 ## Scanning Networks
-*
-*
-*
+* Objectives:
+  * Discover IP address and open ports
+  * Discover operating system
+  * Discover services runing
+  * Discover vulnerabilities
+* Methods: 
+  * [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) Scanning
+  * [SSDP](https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol) Scanning
+* Tools: Nmap, Wireshark, scapy, [SolarWinds Engineers Toolset](http://www.solarwinds.com/engineers-toolset)
 * Resources:
 
 ## Enumeration
