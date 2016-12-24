@@ -55,15 +55,22 @@
  
 ## Scanning Networks
 * Objectives:
-  * Discover IP address and open ports
-  * Discover operating system
+  * Discover IP address and open [ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+  * Discover [operating system](https://en.wikipedia.org/wiki/Operating_system)
   * Discover services runing
-  * Discover vulnerabilities
+  * Discover [vulnerabilities](https://en.wikipedia.org/wiki/Vulnerability_(computing))
 * Methods: 
-  * [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) Scanning
+  * [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) Scanning, [Ping Sweep](https://en.wikipedia.org/wiki/Ping_sweep)
   * [SSDP](https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol) Scanning
-* Tools: Nmap, Wireshark, scapy, [SolarWinds Engineers Toolset](http://www.solarwinds.com/engineers-toolset)
-* Resources:
+  * TCP Connect/Full Open Scan
+  * [Stealth Scan (Half-open Scan)](https://en.wikipedia.org/wiki/TCP_half-open)
+  * Inverse TCP Flag Scan
+  * [Xmas Scan](https://en.wikipedia.org/wiki/Christmas_tree_packet)
+  * [ACK Flag Probe Scan](https://en.wikipedia.org/wiki/Port_scanner#ACK_scanning)
+  * [IDLE Scan](https://en.wikipedia.org/wiki/Idle_scan)
+  * [UDP Scanning](https://en.wikipedia.org/wiki/Port_scanner#UDP_scanning)
+* Tools: [Nmap](), [Hping](), [nping](), [scapy](https://github.com/secdev/scapy), [SolarWinds Engineers Toolset](http://www.solarwinds.com/engineers-toolset), amap, SPARTA, Nessus, OpenVAS, Microsoft Baseline Security Analyzer
+* Resources: [Qualys FreeScan](https://freescan.qualys.com/freescan-front/)
 
 ## Enumeration
 *
@@ -121,7 +128,7 @@
  * Blind Hijacking
  * [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
 * [IPSec](https://en.wikipedia.org/wiki/IPsec)
-* Tools: [OWASP Zaproxy](https://github.com/zaproxy/zaproxy), [Burp Suite](https://portswigger.net/burp/), [Firebug](https://developer.mozilla.org/en-US/docs/Tools), [Ettercap](https://ettercap.github.io/ettercap/), [sslstrip](https://github.com/moxie0/sslstrip),[Websploit](http://sourceforge.net/projects/websploit/), DroidSheep, DroidSniff
+* Tools: [OWASP Zaproxy](https://github.com/zaproxy/zaproxy), [Burp Suite](https://portswigger.net/burp/), [Firebug](https://developer.mozilla.org/en-US/docs/Tools), [Cain and Abel](http://www.oxid.it/cain.html), [Ettercap](https://ettercap.github.io/ettercap/), [sslstrip](https://github.com/moxie0/sslstrip),[Websploit](http://sourceforge.net/projects/websploit/), DroidSheep, DroidSniff
 
 ## Hacking Webservers
 *
