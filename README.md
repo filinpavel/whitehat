@@ -1,3 +1,4 @@
+![](http://www.catb.org/hacker-emblem/glider.png)
 
 * [Footprinting and Reconnaissance](#footprinting-and-reconnaissance)
 * [Scanning Networks](#scanning-networks)
@@ -50,7 +51,7 @@
   * DNS footprinting
     * Tools: DNSstuff
   * Network footprinting: [TCP/IP stack fingerprinting](https://en.wikipedia.org/wiki/TCP/IP_stack_fingerprinting)
-    * Tools: [Qualys SSl LAB](http://ssllab.com/sslscan), traceroute, Nmap, p0f
+    * Tools: [Qualys SSL LAB](http://ssllab.com/sslscan), traceroute, Nmap, p0f, [SHODAN](https://www.shodan.io/), [Censys](https://www.censys.io/), [ZoomEye](https://www.zoomeye.org/)
   * Footprinting using Social Engineering
  * Tools: [Maltego](https://www.paterva.com/web7/buy/maltego-clients.php), [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng), FOCA, [Metagoofil](http://www.edge-security.com/metagoofil.php)
  * Resources: [Awesome-OSINT](https://github.com/jivoi/awesome-osint)
@@ -163,8 +164,8 @@
 * Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome)
 
 ## Evading [IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system), [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) and [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
-* 
-*
+* Network-based Intrusion Detection System
+* [Host-based Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system)
 *
 * Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
 
@@ -177,7 +178,7 @@
 ## [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 *
 *
-*
+* Tools: [IDA Pro](https://www.hex-rays.com/products/ida/), [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml), [WDK\Windbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx), [OllyDBG](http://www.ollydbg.de/), [Radare2](http://rada.re/r/index.html), [x64_dbg](http://x64dbg.com/), [Immunity Debugger](http://debugger.immunityinc.com/), [dnSpy](https://github.com/0xd4d/dnSpy), [GNU Debugger](http://www.gnu.org/software/gdb/)
 * Resources: [Awesome-Reversing](https://github.com/tylerph3/awesome-reversing)
 
 ## [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
@@ -186,7 +187,7 @@
 *
 *
 
-## [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
+## [Cryptography](https://en.wikipedia.org/wiki/Cryptography) and [Anonimity]()
  * Objectives: Confidentiality, [Integrity](https://en.wikipedia.org/wiki/Data_integrity), [Authenication](https://en.wikipedia.org/wiki/Authentication), [Non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
  * Types: [Asymmetric](https://en.wikipedia.org/wiki/Public-key_cryptography), [Symmetric](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 * [Data Encryption Standart (DES)](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
