@@ -19,6 +19,7 @@
 * [Reverse Engineering](#reverse-engineering)
 * [Cloud Computing](#cloud-computing)
 * [Cryptography](#cryptography)
+* [Cybersecurity Standarts and Documents]()
 
 
 ## Footprinting and Reconnaissance
@@ -155,7 +156,7 @@
 *
 *
 *
-*
+* Resources: [SP 800-153	Guidelines for Securing Wireless Local Area Networks (WLANs)](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-153.pdf)
 
 ## Hacking Mobile Platforms
 *
@@ -192,14 +193,17 @@
  * Types: [Asymmetric](https://en.wikipedia.org/wiki/Public-key_cryptography), [Symmetric](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 * [Data Encryption Standart (DES)](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 * [Advanced Encryption Standart (AES)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
- * Tools: [ccrypt](http://ccrypt.sourceforge.net/), [WinAES](https://github.com/yunzhu-li/winaes)
+  * Resources: [FIPS 197	Advanced Encryption Standard](http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf)
+  * Tools: [ccrypt](http://ccrypt.sourceforge.net/), [WinAES](https://github.com/yunzhu-li/winaes)
 * [RC4](https://en.wikipedia.org/wiki/RC4), [RC5](https://en.wikipedia.org/wiki/RC5), [RC6](https://en.wikipedia.org/wiki/RC6) Algorithms
 * [Digital Signature Algorithm (DSA)](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
+  * Resources: [FIPS 186-4 Digital Signature Standard (DSS)](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf)
 * [Rivest Shamir Adleman (RSA)](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 * [Message Digest Function (MD5)](https://en.wikipedia.org/wiki/MD5)
 * [GOST (cifer)](https://en.wikipedia.org/wiki/GOST_(block_cipher))
  * Tools: MD5 calculator, [CrypTool](https://www.cryptool.org/en/), HahsCalc, [HashDroid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid)
 * [Secure](https://en.wikipedia.org/wiki/SHA-1) [Hashing](https://en.wikipedia.org/wiki/SHA-2) [Algorithm](https://en.wikipedia.org/wiki/SHA-3) (SHA)
+  * Resources: [FIPS 180-4	Secure Hash Standard (SHS)](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf)
 * [Secure Shell (SSH)](https://en.wikipedia.org/wiki/Secure_Shell)
  * Tools: [OpenSSH](http://www.openssh.com/), [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/), [SecureCRT](https://www.vandyke.com/products/securecrt/index.html), [WinSCP](https://winscp.net/eng/index.php)
 * [Pretty Good Privacy (PGP)](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
@@ -216,3 +220,7 @@
 * Case study: [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed), [Poodle](https://en.wikipedia.org/wiki/POODLE)
 * Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography)
 
+## Cybersecurity Standarts and Documents
+* [Penetration Testing Execution Standart](http://www.pentest-standard.org/index.php/Main_Page)
+* [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
+* [Open Source Security Testing Methodology Manual (OSSTMM)](http://www.isecom.org/research/osstmm.html)
