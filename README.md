@@ -62,11 +62,11 @@
   * Discover IP address and open [ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
     * Tools: [Nmap](https://nmap.org), [Hping](), [nping](), [scapy](https://github.com/secdev/scapy), [SolarWinds Engineers Toolset](http://www.solarwinds.com/engineers-toolset)
   * Discover [operating system](https://en.wikipedia.org/wiki/Operating_system)
-  * Discover services runing
+  * Discover services running
   * Discover [vulnerabilities](https://en.wikipedia.org/wiki/Vulnerability_(computing)):
     * Tools: [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner), [OpenVAS](http://www.openvas.org/), [Microsoft Baseline Security Analyzer](https://technet.microsoft.com/ru-ru/security/cc184924.aspx) 
 * Methods: 
-  * [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) Scanning, [Ping Sweep](https://en.wikipedia.org/wiki/Ping_sweep)
+  * [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) Scanning, [Ping Sweep](https://en.wikipedia.org/wiki/Ping_sweep), [RFC5927 ICMP Attacks against TCP](https://www.rfc-editor.org/rfc/rfc5927.txt)
   * [SSDP](https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol) Scanning
   * TCP Connect/Full Open Scan
   * [Stealth Scan (Half-open Scan)](https://en.wikipedia.org/wiki/TCP_half-open)
@@ -131,10 +131,10 @@
  * UDP Hijacking
  * Blind Hijacking
  * [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
-* [IPSec](https://en.wikipedia.org/wiki/IPsec)
+* [IPSec](https://en.wikipedia.org/wiki/IPsec),[RFC7296](https://www.rfc-editor.org/rfc/rfc7296.txt)
 * Tools: [OWASP Zaproxy](https://github.com/zaproxy/zaproxy), [Burp Suite](https://portswigger.net/burp/), [Firebug](https://developer.mozilla.org/en-US/docs/Tools), [Cain and Abel](http://www.oxid.it/cain.html), [Ettercap](https://ettercap.github.io/ettercap/), [sslstrip](https://github.com/moxie0/sslstrip),[Websploit](http://sourceforge.net/projects/websploit/), DroidSheep, DroidSniff
 
-## Hacking Webservers
+## Hacking [Webservers](https://en.wikipedia.org/wiki/Web_server)
 *
 *
 *
@@ -212,7 +212,7 @@
  * Tools: MD5 calculator, [CrypTool](https://www.cryptool.org/en/), HahsCalc, [HashDroid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid)
 * [Secure](https://en.wikipedia.org/wiki/SHA-1) [Hashing](https://en.wikipedia.org/wiki/SHA-2) [Algorithm](https://en.wikipedia.org/wiki/SHA-3) (SHA)
   * Resources: [FIPS 180-4	Secure Hash Standard (SHS)](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf)
-* [Secure Shell (SSH)](https://en.wikipedia.org/wiki/Secure_Shell)
+* [Secure Shell (SSH)](https://en.wikipedia.org/wiki/Secure_Shell),[RFC4251](https://www.rfc-editor.org/rfc/rfc4251.txt)
  * Tools: [OpenSSH](http://www.openssh.com/), [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/), [SecureCRT](https://www.vandyke.com/products/securecrt/index.html), [WinSCP](https://winscp.net/eng/index.php)
 * [Pretty Good Privacy (PGP)](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
  * Tools: [GNU Privacy Guard](https://www.gnupg.org/)
@@ -221,7 +221,7 @@
  * [Certificate Authority (CA)](https://en.wikipedia.org/wiki/Certificate_authority)
  * [Validation Authority](https://en.wikipedia.org/wiki/Validation_authority)
  * [Self-signed certificate](https://en.wikipedia.org/wiki/Self-signed_certificate)
-* [Secure Sockets Layer (SSL)](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+* [Secure Sockets Layer (SSL)](https://en.wikipedia.org/wiki/Transport_Layer_Security), [RFC6101](https://www.rfc-editor.org/rfc/rfc6101.txt)
  * Tools: [OpenSSL](https://www.openssl.org/), [GnuTLS](http://gnutls.org/), [LibreSSL](http://www.libressl.org/), [stunnel](https://www.stunnel.org/index.html), [Keyczar](https://github.com/google/keyczar)
 * [Disk Encryption](https://en.wikipedia.org/wiki/Disk_encryption)
  * Tools: [VeraCrypt](https://sourceforge.net/projects/veracrypt/), []()
