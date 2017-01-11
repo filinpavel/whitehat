@@ -75,7 +75,7 @@
   * [ACK Flag Probe Scan](https://en.wikipedia.org/wiki/Port_scanner#ACK_scanning)
   * [IDLE Scan](https://en.wikipedia.org/wiki/Idle_scan)
   * [UDP Scanning](https://en.wikipedia.org/wiki/Port_scanner#UDP_scanning)
-* Resources: [Qualys FreeScan](https://freescan.qualys.com/freescan-front/), [High-Tech Bridge Free SSL Test](https://www.htbridge.com/ssl/)
+* Resources: [Qualys FreeScan](https://freescan.qualys.com/freescan-front/), [High-Tech Bridge Free SSL Test](https://www.htbridge.com/ssl/), [IVRE](https://github.com/cea-sec/ivre)
 
 ## Enumeration
 * [NetBIOS](https://en.wikipedia.org/wiki/NetBIOS) Enumeration
@@ -138,7 +138,7 @@
 *
 *
 *
-*
+* Resources: [PunkSRIDER](https://www.punkspider.org/), [IVRE](https://ivre.rocks/)
 
 ## Hacking Web Applications
 *
