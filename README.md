@@ -93,7 +93,7 @@
 *
 *
 *
-* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis)
+* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis),[Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
 ## Sniffing
 *
