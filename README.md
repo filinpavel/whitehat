@@ -23,7 +23,7 @@
 
 
 ## Footprinting and Reconnaissance
-*  [Footprinting](https://en.wikipedia.org/wiki/Footprinting)
+*  [Footprinting](https://en.wikipedia.org/wiki/Footprinting), [PTES](http://www.pentest-standard.org/index.php/Intelligence_Gathering#Footprinting)
 * Objectives: 
   * Collect Network Information
   * Collect System Information
@@ -78,10 +78,10 @@
 * Resources: [Qualys FreeScan](https://freescan.qualys.com/freescan-front/), [High-Tech Bridge Free SSL Test](https://www.htbridge.com/ssl/)
 
 ## Enumeration
-*
-*
-*
-*
+* [NetBIOS](https://en.wikipedia.org/wiki/NetBIOS) Enumeration
+* [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) Enumeration
+* [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) Enumeration
+* [NTP](https://en.wikipedia.org/wiki/Network_Time_Protocol) Enumeration
 
 ## System Hacking
 *
@@ -93,7 +93,7 @@
 *
 *
 *
-* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis),[Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
 ## Sniffing
 *
