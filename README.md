@@ -84,9 +84,15 @@
 * [NTP](https://en.wikipedia.org/wiki/Network_Time_Protocol) Enumeration
 
 ## System Hacking
+* Objectives:
+  * Gain Access to System: [Password cracking](https://en.wikipedia.org/wiki/Password_cracking), [Preimage attack](https://en.wikipedia.org/wiki/Preimage_attack), 
+  * [Priveledge Escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
+  * Maintain [Remote Access](https://en.wikipedia.org/wiki/Remote_administration_software)
+  * [Rootkit](https://en.wikipedia.org/wiki/Rootkit)
+  * [Steganography](https://en.wikipedia.org/wiki/Steganography)
+  * Hide the [Evidence of Compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise)
 *
-*
-*
+* Tools: [L0phtCrack](http://www.l0phtcrack.com/), [Cain & Abel](http://www.oxid.it/cain.html)
 *
 
 ## [Malware](https://en.wikipedia.org/wiki/Malware) Threats, [Trojans](https://en.wikipedia.org/wiki/Trojan_horse_(computing)) and [Viruses](https://en.wikipedia.org/wiki/Computer_virus)
@@ -230,7 +236,7 @@
 * [Disk Encryption](https://en.wikipedia.org/wiki/Disk_encryption)
  * Tools: [VeraCrypt](https://sourceforge.net/projects/veracrypt/), []()
 * Case study: [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed), [Poodle](https://en.wikipedia.org/wiki/POODLE)
-* Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography)
+* Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography), [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
 
 ## Cybersecurity Standarts and Documents
 * [Penetration Testing Execution Standart](http://www.pentest-standard.org/index.php/Main_Page)
