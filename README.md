@@ -188,7 +188,7 @@
    * Checking Integrity
    * Searching with Event Viewer
  * Tools: [Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [hardinfo](http://hardinfo.berlios.de/)
-* Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response)
+* Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response), [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page)
 
 ## [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 *
