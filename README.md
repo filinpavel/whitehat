@@ -141,10 +141,27 @@
 * Tools: [OWASP Zaproxy](https://github.com/zaproxy/zaproxy), [Burp Suite](https://portswigger.net/burp/), [Firebug](https://developer.mozilla.org/en-US/docs/Tools), [Cain and Abel](http://www.oxid.it/cain.html), [Ettercap](https://ettercap.github.io/ettercap/), [sslstrip](https://github.com/moxie0/sslstrip),[Websploit](http://sourceforge.net/projects/websploit/), DroidSheep, DroidSniff
 
 ## Hacking [Webservers](https://en.wikipedia.org/wiki/Web_server)
-*
-*
-*
-* Resources: [PunkSRIDER](https://www.punkspider.org/), [IVRE](https://ivre.rocks/)
+* [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server), [IIS](https://en.wikipedia.org/wiki/Internet_Information_Services),[Nginx](https://en.wikipedia.org/wiki/Nginx)
+* [DNS Hijacking](https://en.wikipedia.org/wiki/DNS_hijacking) 
+* [DNS Spoofing](https://en.wikipedia.org/wiki/DNS_spoofing)
+* [Phishing](https://en.wikipedia.org/wiki/Phishing)
+* [Website Defacement](https://en.wikipedia.org/wiki/Website_defacement)
+  * Web server Misconfiguration:
+    * Verbose debug\error messages
+    * Anonymous\default credentials
+    * Sample configuration
+    * Remote Access functions
+    * Unnecessary Services installed
+    * Misconfigured\Default SSL Certificates
+* [Web Cache Poisoning](https://en.wikipedia.org/wiki/DNS_spoofing)
+* [SSH Bruteforce Attack]()
+* [Webserver Password Cracking]()
+  * Tool: Brutus, THC Hydra
+* Webserver Information Gathering from robots.txt file
+* Mirroring a Website: wget -r -k -l 10 -p -E -nc http://site.com/
+
+* Tools: [Burp Suite](), [Firesheep](), [Arachni](), [Immunity CANVAS](), [CORE Impact Pro]()
+* Resources: [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project), [PunkSPIDER](https://www.punkspider.org/), [IVRE](https://ivre.rocks/)
 
 ## Hacking Web Applications
 *
