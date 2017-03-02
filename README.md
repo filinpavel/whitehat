@@ -243,7 +243,7 @@
  * Tools: [OpenSSH](http://www.openssh.com/), [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/), [SecureCRT](https://www.vandyke.com/products/securecrt/index.html), [WinSCP](https://winscp.net/eng/index.php)
 * [Pretty Good Privacy (PGP)](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
  * Tools: [GNU Privacy Guard](https://www.gnupg.org/)
-* [Public Key Infrastructure (PKI)](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+* [Public Key Infrastructure (PKI)](https://en.wikipedia.org/wiki/Public_key_infrastructure), [Public Key Cryptography Standarts](https://en.wikipedia.org/wiki/PKCS), [PKCS #12](https://en.wikipedia.org/wiki/PKCS_12)
  * [Digital certificate](https://en.wikipedia.org/wiki/Public_key_certificate)
  * [Certificate Authority (CA)](https://en.wikipedia.org/wiki/Certificate_authority)
  * [Validation Authority](https://en.wikipedia.org/wiki/Validation_authority)
