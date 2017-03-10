@@ -46,7 +46,7 @@
   * [Competitive intelligence](https://en.wikipedia.org/wiki/Competitive_intelligence)
   * Website footprinting
     * Tools: [OWASP Zaproxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [Burp Suite](https://portswigger.net/burp/), WebSpiders, HTTrack, GNU Wget
-  * Email footprinting
+  * [Email](https://en.wikipedia.org/wiki/Email) footprinting ([RFC 5322 Internet Message Format](https://tools.ietf.org/html/rfc5322))
   * [WHOIS](https://en.wikipedia.org/wiki/WHOIS) footprinting
     * Resources: [RU-CENTER](https://www.nic.ru/whois/en/)
   * DNS footprinting
