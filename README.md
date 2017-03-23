@@ -110,8 +110,8 @@
 ## [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security))
 *
 *
-*
-*
+* Tools: [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
+* Resources: 
 
 ## [Denial-of-Service](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 * 
@@ -205,7 +205,7 @@
    * Checking Integrity
    * Searching with Event Viewer
  * Tools: [Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [hardinfo](http://hardinfo.berlios.de/)
-* Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response), [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page)
+* Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response), [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page), [DFIR](http://www.dfir.training/)
 
 ## [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 *
