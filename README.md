@@ -193,7 +193,7 @@
 *
 * Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
 
-## [Forensics](https://en.wikipedia.org/wiki/Digital_forensics)
+## [Forensics](https://en.wikipedia.org/wiki/Digital_forensics) and Incident Response
 *
 * Windows Forensics
  * Objectives:
@@ -205,7 +205,7 @@
    * Checking Integrity
    * Searching with Event Viewer
  * Tools: [Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [hardinfo](http://hardinfo.berlios.de/)
-* Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response), [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page), [DFIR](http://www.dfir.training/)
+* Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response), [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page), [DFIR](http://www.dfir.training/), [NIST SP 800 86 Guide to Integrating Forensic Techniques into Incident Response](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf)
 
 ## [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 *
