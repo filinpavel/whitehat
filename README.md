@@ -145,6 +145,7 @@
 * [DNS Hijacking](https://en.wikipedia.org/wiki/DNS_hijacking) 
 * [DNS Spoofing](https://en.wikipedia.org/wiki/DNS_spoofing)
 * [Phishing](https://en.wikipedia.org/wiki/Phishing)
+  * Tools: [Simple Phishing Toolkit](https://github.com/jackl0phty/sptoolkit)
 * [Website Defacement](https://en.wikipedia.org/wiki/Website_defacement)
   * Web server Misconfiguration:
     * Verbose debug\error messages
@@ -178,7 +179,7 @@
 ## [Hacking Wireless](https://en.wikipedia.org/wiki/Wireless_security) Networks
 *
 *
-* Tools:[aircrack-ng](http://www.aircrack-ng.org/)
+* Tools: [aircrack-ng](http://www.aircrack-ng.org/)
 * Resources: [SP 800-153	Guidelines for Securing Wireless Local Area Networks (WLANs)](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-153.pdf)
 
 ## Hacking Mobile Platforms
