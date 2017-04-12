@@ -62,7 +62,7 @@
   * Discover IP address and open [ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
     * Tools: [Nmap](https://nmap.org), [Hping](), [nping](), [scapy](https://github.com/secdev/scapy), [SolarWinds Engineers Toolset](http://www.solarwinds.com/engineers-toolset)
   * Discover [operating system](https://en.wikipedia.org/wiki/Operating_system)
-  * Discover [services](https://en.wikipedia.org/wiki/Windows_service)\[daemons](https://en.wikipedia.org/wiki/Daemon_(computing)) running
+  * Discover [services](https://en.wikipedia.org/wiki/Windows_service) \ [daemons](https://en.wikipedia.org/wiki/Daemon_(computing)) running
   * Discover [vulnerabilities](https://en.wikipedia.org/wiki/Vulnerability_(computing)):
     * Tools: [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner), [OpenVAS](http://www.openvas.org/), [Microsoft Baseline Security Analyzer](https://technet.microsoft.com/ru-ru/security/cc184924.aspx) 
 * Methods: 
