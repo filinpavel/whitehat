@@ -45,7 +45,7 @@
   * Footprinting using Social Media
   * [Competitive intelligence](https://en.wikipedia.org/wiki/Competitive_intelligence)
   * Website footprinting
-    * Tools: [OWASP Zaproxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [Burp Suite](https://portswigger.net/burp/), WebSpiders, HTTrack, GNU Wget
+    * Tools: [OWASP Zaproxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [Burp Suite](https://portswigger.net/burp/), [Firebug](https://developer.mozilla.org/en-US/docs/Tools), HTTrack, [GNU Wget](https://www.gnu.org/software/wget/)
   * [Email](https://en.wikipedia.org/wiki/Email) footprinting ([RFC 5322 Internet Message Format](https://tools.ietf.org/html/rfc5322))
   * [WHOIS](https://en.wikipedia.org/wiki/WHOIS) footprinting
     * Resources: [RU-CENTER](https://www.nic.ru/whois/en/)
@@ -60,11 +60,14 @@
 ## Scanning Networks
 * Objectives:
   * Discover IP address and open [ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
-    * Tools: [Nmap](https://nmap.org), [Hping](), [nping](), [scapy](https://github.com/secdev/scapy), [SolarWinds Engineers Toolset](http://www.solarwinds.com/engineers-toolset)
+    * Tools: [Nmap](https://nmap.org), [Hping](http://www.hping.org/), [nping](https://nmap.org/nping/), [scapy](https://github.com/secdev/scapy), [SolarWinds Engineers Toolset](http://www.solarwinds.com/engineers-toolset)
   * Discover [operating system](https://en.wikipedia.org/wiki/Operating_system)
   * Discover [services](https://en.wikipedia.org/wiki/Windows_service) \ [daemons](https://en.wikipedia.org/wiki/Daemon_(computing)) running
   * Discover [vulnerabilities](https://en.wikipedia.org/wiki/Vulnerability_(computing)):
     * Tools: [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner), [OpenVAS](http://www.openvas.org/), [Microsoft Baseline Security Analyzer](https://technet.microsoft.com/ru-ru/security/cc184924.aspx) 
+  * Drawing network diagrams of vulnerable hosts
+  * Getting ready [proxies](https://en.wikipedia.org/wiki/Proxy_server) and [anonymizers](https://en.wikipedia.org/wiki/Anonymizer)
+    * Tools: [ProxySwitcher](https://www.proxyswitcher.com/), [CyberGhost](http://www.cyberghostvpn.com/)
 * Methods: 
   * [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) Scanning, [Ping Sweep](https://en.wikipedia.org/wiki/Ping_sweep), [RFC5927 ICMP Attacks against TCP](https://www.rfc-editor.org/rfc/rfc5927.txt)
   * [SSDP](https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol) Scanning
@@ -79,18 +82,24 @@
 
 ## Enumeration
 * [NetBIOS](https://en.wikipedia.org/wiki/NetBIOS) Enumeration
+  * Tools: [ShareEnum](https://technet.microsoft.com/en-us/sysinternals/shareenum)
 * [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) Enumeration
+  * Tools: [SNMPCHECK](http://www.nothink.org/codes/snmpcheck/index.php)
 * [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) Enumeration
+  * Tools: [ADExplorer](https://technet.microsoft.com/en-us/sysinternals/adexplorer.aspx) 
 * [NTP](https://en.wikipedia.org/wiki/Network_Time_Protocol) Enumeration
+
 
 ## System Hacking
 * Objectives:
   * Gain Access to System: [Password cracking](https://en.wikipedia.org/wiki/Password_cracking), [Preimage attack](https://en.wikipedia.org/wiki/Preimage_attack), 
   * [Priveledge Escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
   * Maintain [Remote Access](https://en.wikipedia.org/wiki/Remote_administration_software)
+  * [Keyloggers](https://en.wikipedia.org/wiki/Keystroke_logging)
+  * [Spyware](https://en.wikipedia.org/wiki/Spyware)
   * [Rootkit](https://en.wikipedia.org/wiki/Rootkit)
   * [Steganography](https://en.wikipedia.org/wiki/Steganography)
-  * Hide the [Evidence of Compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise)
+  * Hide the [Evidence of Compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise), covering tracks and clearing logs
 *
 * Tools: [L0phtCrack](http://www.l0phtcrack.com/), [Cain & Abel](http://www.oxid.it/cain.html)
 *
@@ -116,7 +125,7 @@
 ## [Denial-of-Service](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 * 
 *
-*
+* Tools: [Low Orbit Ion Cannon](https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon), [High Orbit Ion Cannon](https://en.wikipedia.org/wiki/High_Orbit_Ion_Cannon)
 * Resources: [RFC4732](https://tools.ietf.org/html/rfc4732)
 
 ## [Session Hacking](https://en.wikipedia.org/wiki/Session_hijacking)
