@@ -92,23 +92,29 @@
 
 ## System Hacking
 * Objectives:
-  * Gain Access to System: [Password cracking](https://en.wikipedia.org/wiki/Password_cracking), [Preimage attack](https://en.wikipedia.org/wiki/Preimage_attack), 
+  * Gain Access to System: [Password cracking](https://en.wikipedia.org/wiki/Password_cracking), [Preimage attack](https://en.wikipedia.org/wiki/Preimage_attack), cracking Windows [SAM](https://en.wikipedia.org/wiki/Security_Account_Manager) datbase
+    * Tools: [chntpw](http://pogostick.net/~pnh/ntpasswd/)
   * [Priveledge Escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
   * Maintain [Remote Access](https://en.wikipedia.org/wiki/Remote_administration_software)
   * [Keyloggers](https://en.wikipedia.org/wiki/Keystroke_logging)
   * [Spyware](https://en.wikipedia.org/wiki/Spyware)
   * [Rootkit](https://en.wikipedia.org/wiki/Rootkit)
   * [Steganography](https://en.wikipedia.org/wiki/Steganography)
+    * Tools: [OpenStego](https://github.com/syvaidya/openstego), [SNOW Steganography](https://github.com/mattkwan/snow), [darkjpeg](https://github.com/yndi/darkjpeg)
+  * [NTFS](https://en.wikipedia.org/wiki/NTFS#Alternate_data_streams_.28ADS.29) [Streams](https://en.wikipedia.org/wiki/Fork_(file_system))
+    * Tools: [Streams](https://technet.microsoft.com/en-us/sysinternals/bb897440.aspx)
   * Hide the [Evidence of Compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise), covering tracks and clearing logs
+    * Tools: Wevtutil(https://technet.microsoft.com/ru-ru/library/cc732848(v=ws.10).aspx), [clearev](https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/)
 *
 * Tools: [L0phtCrack](http://www.l0phtcrack.com/), [Cain & Abel](http://www.oxid.it/cain.html)
 *
 
 ## [Malware](https://en.wikipedia.org/wiki/Malware) Threats, [Trojans](https://en.wikipedia.org/wiki/Trojan_horse_(computing)) and [Viruses](https://en.wikipedia.org/wiki/Computer_virus)
-*
-*
-*
-* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+* Methods:
+  * [Malware Analysys](https://en.wikipedia.org/wiki/Malware_analysis)
+* [Advanced Persistent Threat (APT)](https://en.wikipedia.org/wiki/Advanced_persistent_threat)
+* [Fileless Malware](https://en.wikipedia.org/wiki/Fileless_malware)
+* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data)
 
 ## Sniffing
 *
