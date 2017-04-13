@@ -96,6 +96,7 @@
     * Tools: [chntpw](http://pogostick.net/~pnh/ntpasswd/)
   * [Priveledge Escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
   * Maintain [Remote Access](https://en.wikipedia.org/wiki/Remote_administration_software)
+    * Tools: njRAT, SwayzCryptor
   * [Keyloggers](https://en.wikipedia.org/wiki/Keystroke_logging)
   * [Spyware](https://en.wikipedia.org/wiki/Spyware)
   * [Rootkit](https://en.wikipedia.org/wiki/Rootkit)
@@ -104,7 +105,7 @@
   * [NTFS](https://en.wikipedia.org/wiki/NTFS#Alternate_data_streams_.28ADS.29) [Streams](https://en.wikipedia.org/wiki/Fork_(file_system))
     * Tools: [Streams](https://technet.microsoft.com/en-us/sysinternals/bb897440.aspx)
   * Hide the [Evidence of Compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise), covering tracks and clearing logs
-    * Tools: Wevtutil(https://technet.microsoft.com/ru-ru/library/cc732848(v=ws.10).aspx), [clearev](https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/)
+    * Tools: [Wevtutil](https://technet.microsoft.com/ru-ru/library/cc732848(v=ws.10).aspx), [clearev](https://www.offensive-security.com/metasploit-unleashed/meterpreter-basics/)
 *
 * Tools: [L0phtCrack](http://www.l0phtcrack.com/), [Cain & Abel](http://www.oxid.it/cain.html)
 *
@@ -117,20 +118,22 @@
 * Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data)
 
 ## Sniffing
-*
-*
-*
+* [MAC Flooding](https://en.wikipedia.org/wiki/MAC_flooding)
+* [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
+  * Tools: (XArp)[http://www.xarp.net/]
+* Tools: [Packet Analyzer](https://en.wikipedia.org/wiki/Packet_analyzer), [Wireshark](https://www.wireshark.org/), [Capsa Network Analyzer](http://www.colasoft.com/capsa/), [OmniPeek](https://www.savvius.com/products/network_forensics_for_security_investigations/omnipeek_for_security)
 * Resources:
 
 ## [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security))
-*
-*
-* Tools: [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
+* [Security Awareness](https://en.wikipedia.org/wiki/Security_awareness)
+* [Phishing](https://en.wikipedia.org/wiki/Phishing)
+* Tools: [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit), [Simple Phishing Toolkit](https://github.com/jackl0phty/sptoolkit)
 * Resources: 
 
 ## [Denial-of-Service](https://en.wikipedia.org/wiki/Denial-of-service_attack)
-* 
-*
+* [Botnet](https://en.wikipedia.org/wiki/Botnet)
+* [Zombie](https://en.wikipedia.org/wiki/Zombie_(computer_science))
+* [Command and Control](https://en.wikipedia.org/wiki/Command_and_control_(malware))
 * Tools: [Low Orbit Ion Cannon](https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon), [High Orbit Ion Cannon](https://en.wikipedia.org/wiki/High_Orbit_Ion_Cannon)
 * Resources: [RFC4732](https://tools.ietf.org/html/rfc4732)
 
@@ -172,41 +175,43 @@
 * [Web Cache Poisoning](https://en.wikipedia.org/wiki/DNS_spoofing)
 * [SSH Bruteforce Attack]()
 * [Webserver Password Cracking]()
-  * Tool: Brutus, THC Hydra
+  * Tool: Brutus, [THC Hydra](https://github.com/vanhauser-thc/thc-hydra)
 * Webserver Information Gathering from robots.txt file
 * Mirroring a Website: wget -r -k -l 10 -p -E -nc http://site.com/
 
-* Tools: [Burp Suite](), [Firesheep](), [Arachni](), [Immunity CANVAS](), [CORE Impact Pro]()
+* Tools: [skipfish](https://github.com/spinkham/skipfish), [httprecon](https://www.computec.ch/projekte/httprecon/), [Burp Suite](), [Firesheep](), [Arachni](), [Immunity CANVAS](), [CORE Impact Pro]()
 * Resources: [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project), [PunkSPIDER](https://www.punkspider.org/), [IVRE](https://ivre.rocks/)
 
 ## Hacking Web Applications
-*
-*
-*
+* [Web Application Security](https://en.wikipedia.org/wiki/Web_application_security)
+* [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting)
+  * Tools: [XSSer](https://xsser.03c8.net/)
+* [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+* Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](), [W3AF](https://github.com/andresriancho/w3af), [WPScan](), [Joomscan]()
 * Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
 
 ## [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
 * 
 * 
 *
-* Tools: [SQLmap](http://sqlmap.org/)
+* Tools: [SQLmap](http://sqlmap.org/), [WebCruiser](http://www.janusec.com/product/webcruiser-web-vulnerability-scanner/),[IBM Security AppScan](http://www-03.ibm.com/software/products/ru/appscan)
 
 ## [Hacking Wireless](https://en.wikipedia.org/wiki/Wireless_security) Networks
 *
 *
-* Tools: [aircrack-ng](http://www.aircrack-ng.org/)
+* Tools: [aircrack-ng](http://www.aircrack-ng.org/), [CommView for Wifi]()
 * Resources: [SP 800-153	Guidelines for Securing Wireless Local Area Networks (WLANs)](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-153.pdf)
 
 ## Hacking Mobile Platforms
+* [Mobile OS](https://en.wikipedia.org/wiki/Mobile_operating_system)
 *
-*
-*
+* Tools:[RemixOS player](http://www.jide.com/remixos-player)
 * Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome)
 
 ## Evading [IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system), [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) and [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 * Network-based Intrusion Detection System
 * [Host-based Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system)
-*
+* Tools: [Snort](https://www.snort.org/)
 * Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
 
 ## [Forensics](https://en.wikipedia.org/wiki/Digital_forensics) and Incident Response
