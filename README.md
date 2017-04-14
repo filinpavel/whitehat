@@ -81,6 +81,8 @@
 * Resources: [Qualys FreeScan](https://freescan.qualys.com/freescan-front/), [High-Tech Bridge Free SSL Test](https://www.htbridge.com/ssl/), [IVRE](https://github.com/cea-sec/ivre)
 
 ## Enumeration
+Method:
+ * [Network Enumeration](https://en.wikipedia.org/wiki/Network_enumeration)
 * [NetBIOS](https://en.wikipedia.org/wiki/NetBIOS) Enumeration
   * Tools: [ShareEnum](https://technet.microsoft.com/en-us/sysinternals/shareenum)
 * [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) Enumeration
@@ -119,12 +121,13 @@
   * [Malware Analysys](https://en.wikipedia.org/wiki/Malware_analysis)
 * [Advanced Persistent Threat (APT)](https://en.wikipedia.org/wiki/Advanced_persistent_threat)
 * [Fileless Malware](https://en.wikipedia.org/wiki/Fileless_malware)
+* [Antivirus Software](https://en.wikipedia.org/wiki/Antivirus_software)
 * Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data)
 
 ## Sniffing
 * [MAC Flooding](https://en.wikipedia.org/wiki/MAC_flooding)
 * [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
-  * Tools: (XArp)[http://www.xarp.net/]
+  * Tools: [XArp](http://www.xarp.net/)
 * Tools: [Packet Analyzer](https://en.wikipedia.org/wiki/Packet_analyzer), [Wireshark](https://www.wireshark.org/), [Capsa Network Analyzer](http://www.colasoft.com/capsa/), [OmniPeek](https://www.savvius.com/products/network_forensics_for_security_investigations/omnipeek_for_security)
 * Resources:
 
