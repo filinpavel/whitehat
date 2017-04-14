@@ -100,6 +100,10 @@
   * [Keyloggers](https://en.wikipedia.org/wiki/Keystroke_logging)
   * [Spyware](https://en.wikipedia.org/wiki/Spyware)
   * [Rootkit](https://en.wikipedia.org/wiki/Rootkit)
+  * [Exploit](https://en.wikipedia.org/wiki/Exploit_(computer_security))
+    * Tools: [Metasploit](https://www.metasploit.com/)
+  * [Backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing))
+    * Tools: [Backdoor factory](https://github.com/secretsquirrel/the-backdoor-factory)
   * [Steganography](https://en.wikipedia.org/wiki/Steganography)
     * Tools: [OpenStego](https://github.com/syvaidya/openstego), [SNOW Steganography](https://github.com/mattkwan/snow), [darkjpeg](https://github.com/yndi/darkjpeg)
   * [NTFS](https://en.wikipedia.org/wiki/NTFS#Alternate_data_streams_.28ADS.29) [Streams](https://en.wikipedia.org/wiki/Fork_(file_system))
@@ -197,21 +201,31 @@
 * Tools: [SQLmap](http://sqlmap.org/), [WebCruiser](http://www.janusec.com/product/webcruiser-web-vulnerability-scanner/),[IBM Security AppScan](http://www-03.ibm.com/software/products/ru/appscan)
 
 ## [Hacking Wireless](https://en.wikipedia.org/wiki/Wireless_security) Networks
-*
-*
-* Tools: [aircrack-ng](http://www.aircrack-ng.org/), [CommView for Wifi]()
+* [Wireless Network](https://en.wikipedia.org/wiki/Wireless_LAN)
+* [OFDM](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing)
+* [DSSS](https://en.wikipedia.org/wiki/Direct-sequence_spread_spectrum)
+* [Servise Set](https://en.wikipedia.org/wiki/Service_set_(802.11_network))
+* [Wired Equivalent Privacy](https://en.wikipedia.org/wiki/Wired_Equivalent_Privacy)
+* [WIFi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
+* [Temporal Key Integrity Protocol](https://en.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol)
+* [CCMP](https://en.wikipedia.org/wiki/CCMP)
+* [Rogue Access Point](https://en.wikipedia.org/wiki/Rogue_access_point)
+* [Wardriving](https://en.wikipedia.org/wiki/Wardriving)
+* [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
+
+* Tools: [aircrack-ng](http://www.aircrack-ng.org/), [CommView for Wifi](), [Kismet](http://www.kismetwireless.net/)
 * Resources: [SP 800-153	Guidelines for Securing Wireless Local Area Networks (WLANs)](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-153.pdf)
 
 ## Hacking Mobile Platforms
 * [Mobile OS](https://en.wikipedia.org/wiki/Mobile_operating_system)
-*
-* Tools:[RemixOS player](http://www.jide.com/remixos-player)
+* [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
+* Tools: [RemixOS player](http://www.jide.com/remixos-player)
 * Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome)
 
 ## Evading [IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system), [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) and [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 * Network-based Intrusion Detection System
 * [Host-based Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system)
-* Tools: [Snort](https://www.snort.org/)
+* Tools: [Snort](https://www.snort.org/), [KFSensor](http://www.keyfocus.net/kfsensor/), [HoneyBot](http://www.atomicsoftwaresolutions.com/), [Security Onion](https://github.com/Security-Onion-Solutions/security-onion), [HoneyDrive](http://bruteforcelab.com/honeydrive)
 * Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
 
 ## [Forensics](https://en.wikipedia.org/wiki/Digital_forensics) and Incident Response
