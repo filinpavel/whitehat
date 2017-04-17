@@ -125,6 +125,8 @@ Method:
 * Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data)
 
 ## Sniffing
+* [Promiscuous mode](https://en.wikipedia.org/wiki/Promiscuous_mode)
+* [Pcap](https://en.wikipedia.org/wiki/Pcap)
 * [MAC Flooding](https://en.wikipedia.org/wiki/MAC_flooding)
 * [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
   * Tools: [XArp](http://www.xarp.net/)
@@ -212,11 +214,12 @@ Method:
 * [WIFi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
 * [Temporal Key Integrity Protocol](https://en.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol)
 * [CCMP](https://en.wikipedia.org/wiki/CCMP)
+* [Monitor mode](https://en.wikipedia.org/wiki/Monitor_mode)
 * [Rogue Access Point](https://en.wikipedia.org/wiki/Rogue_access_point)
 * [Wardriving](https://en.wikipedia.org/wiki/Wardriving)
 * [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
 
-* Tools: [aircrack-ng](http://www.aircrack-ng.org/), [CommView for Wifi](), [Kismet](http://www.kismetwireless.net/)
+* Tools: [aircrack-ng](http://www.aircrack-ng.org/), [CommView for Wifi](http://www.tamos.com/products/commwifi/), [Kismet](http://www.kismetwireless.net/)
 * Resources: [SP 800-153	Guidelines for Securing Wireless Local Area Networks (WLANs)](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-153.pdf)
 
 ## Hacking Mobile Platforms
