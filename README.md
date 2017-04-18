@@ -18,8 +18,8 @@
 * [Forensics](#forensics)
 * [Reverse Engineering](#reverse-engineering)
 * [Cloud Computing](#cloud-computing)
-* [Cryptography](#cryptography)
-* [Cybersecurity Standarts and Documents]()
+* [Cryptography](#cryptography-and-anonimity)
+* [Cybersecurity Standarts and Documents](#cybersecurity-standarts-and-documents)
 
 
 ## Footprinting and Reconnaissance
@@ -300,3 +300,5 @@ Method:
 * [Penetration Testing Execution Standart](http://www.pentest-standard.org/index.php/Main_Page)
 * [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
 * [Open Source Security Testing Methodology Manual (OSSTMM)](http://www.isecom.org/research/osstmm.html)
+* [ISO/IEC 27001:2013 Information security management systems - Requirements](https://www.iso.org/standard/54534.html)
+* [ISO/IEC 27033-1:2015 Security techniques - Network security](https://www.iso.org/standard/63461.html)
