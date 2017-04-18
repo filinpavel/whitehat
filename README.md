@@ -98,7 +98,7 @@ Method:
     * Tools: [chntpw](http://pogostick.net/~pnh/ntpasswd/)
   * [Priveledge Escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
   * Maintain [Remote Access](https://en.wikipedia.org/wiki/Remote_administration_software)
-    * Tools: njRAT, SwayzCryptor
+    * Tools: njRAT, SwayzCryptor, [DarkComet](https://en.wikipedia.org/wiki/DarkComet)
   * [Keyloggers](https://en.wikipedia.org/wiki/Keystroke_logging)
   * [Spyware](https://en.wikipedia.org/wiki/Spyware)
   * [Rootkit](https://en.wikipedia.org/wiki/Rootkit)
@@ -212,7 +212,7 @@ Method:
 * [Wireless Network](https://en.wikipedia.org/wiki/Wireless_LAN)
 * [OFDM](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing)
 * [DSSS](https://en.wikipedia.org/wiki/Direct-sequence_spread_spectrum)
-* [Servise Set](https://en.wikipedia.org/wiki/Service_set_(802.11_network))
+* [Service Set](https://en.wikipedia.org/wiki/Service_set_(802.11_network))
 * [Wired Equivalent Privacy](https://en.wikipedia.org/wiki/Wired_Equivalent_Privacy)
 * [WIFi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
 * [Temporal Key Integrity Protocol](https://en.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol)
@@ -237,8 +237,11 @@ Method:
 * Tools: [Snort](https://www.snort.org/), [KFSensor](http://www.keyfocus.net/kfsensor/), [HoneyBot](http://www.atomicsoftwaresolutions.com/), [Security Onion](https://github.com/Security-Onion-Solutions/security-onion), [HoneyDrive](http://bruteforcelab.com/honeydrive)
 * Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
 
-## [Forensics](https://en.wikipedia.org/wiki/Digital_forensics) and Incident Response
-*
+## [Forensics](https://en.wikipedia.org/wiki/Digital_forensics) and [Incident Response](https://en.wikipedia.org/wiki/Computer_security_incident_management)
+* [Digital forensics process](https://en.wikipedia.org/wiki/Digital_forensic_process)
+* [Computer forensics](https://en.wikipedia.org/wiki/Computer_forensics)
+* [Mobile device forensics](https://en.wikipedia.org/wiki/Mobile_device_forensics)
+* [Anti-computer forensics](https://en.wikipedia.org/wiki/Anti-computer_forensics)
 * Windows Forensics
  * Objectives:
    * Garthering Volatile System Information
@@ -252,9 +255,16 @@ Method:
 * Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response), [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page), [DFIR](http://www.dfir.training/), [NIST SP 800 86 Guide to Integrating Forensic Techniques into Incident Response](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf)
 
 ## [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
-*
-*
-* Tools: [IDA Pro](https://www.hex-rays.com/products/ida/), [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml), [WDK\Windbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx), [OllyDBG](http://www.ollydbg.de/), [Radare2](http://rada.re/r/index.html), [x64_dbg](http://x64dbg.com/), [Immunity Debugger](http://debugger.immunityinc.com/), [dnSpy](https://github.com/0xd4d/dnSpy), [GNU Debugger](http://www.gnu.org/software/gdb/)
+* [Software cracking](https://en.wikipedia.org/wiki/Software_cracking)
+* [Debugging](https://en.wikipedia.org/wiki/Debugging)
+  * [Debugger](https://en.wikipedia.org/wiki/Debugger)
+    * Tools: [x64_dbg](http://x64dbg.com/), [Immunity Debugger](http://debugger.immunityinc.com/), [GNU Debugger](http://www.gnu.org/software/gdb/), [WDK\Windbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx), [OllyDBG](http://www.ollydbg.de/)
+* [Disassembler](https://en.wikipedia.org/wiki/Disassembler)
+  * Tools: [IDA Pro](https://www.hex-rays.com/products/ida/), [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml)
+* [Decompiler](https://en.wikipedia.org/wiki/Decompiler)
+* [Obfuscation](https://en.wikipedia.org/wiki/Obfuscation_(software))
+* [Anti-tamper software](https://en.wikipedia.org/wiki/Anti-tamper_software)
+* Tools: [Radare2](http://rada.re/r/index.html), [dnSpy](https://github.com/0xd4d/dnSpy), 
 * Resources: [Awesome-Reversing](https://github.com/tylerph3/awesome-reversing)
 
 ## [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
