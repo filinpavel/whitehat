@@ -311,7 +311,9 @@ Method:
     * [Darknet](https://en.wikipedia.org/wiki/Darknet)
 ## Cybersecurity Standarts and Documents
 * [Penetration Testing Execution Standart](http://www.pentest-standard.org/index.php/Main_Page)
+  * [PTES Technical Guidelines](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
 * [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
 * [Open Source Security Testing Methodology Manual (OSSTMM)](http://www.isecom.org/research/osstmm.html)
 * [ISO/IEC 27001:2013 Information security management systems - Requirements](https://www.iso.org/standard/54534.html)
 * [ISO/IEC 27033-1:2015 Security techniques - Network security](https://www.iso.org/standard/63461.html)
+* [NIST SP 800-115 Technical Guide to Information Security Testing and Assessment](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf)
