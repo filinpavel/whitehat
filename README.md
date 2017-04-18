@@ -127,6 +127,7 @@ Method:
 ## Sniffing
 * [Promiscuous mode](https://en.wikipedia.org/wiki/Promiscuous_mode)
 * [Pcap](https://en.wikipedia.org/wiki/Pcap)
+* [Traffic analysis](https://en.wikipedia.org/wiki/Traffic_analysis)
 * [MAC Flooding](https://en.wikipedia.org/wiki/MAC_flooding)
 * [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
   * Tools: [XArp](http://www.xarp.net/)
@@ -295,7 +296,19 @@ Method:
  * Tools: [VeraCrypt](https://sourceforge.net/projects/veracrypt/), []()
 * Case study: [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed), [Poodle](https://en.wikipedia.org/wiki/POODLE)
 * Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography), [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
-
+### [Anonimity](https://en.wikipedia.org/wiki/Anonymity)
+* [Anonymous blogging](https://en.wikipedia.org/wiki/Anonymous_blog)
+* [Anonymous peer-to-peer](https://en.wikipedia.org/wiki/Anonymous_P2P)
+* [Anonymous web browsing](https://en.wikipedia.org/wiki/Anonymous_web_browsing)
+  * Tools: [TorBrowser](https://www.torproject.org/), [OperaVPN](http://www.opera.com/ru/computer/beta)
+* [Intrernet privacy](https://en.wikipedia.org/wiki/Internet_privacy)
+* [Personally Identifiable Informatiob](https://en.wikipedia.org/wiki/Personally_identifiable_information)
+* [Secure communications](https://en.wikipedia.org/wiki/Secure_communication)
+  * [Onion routing](https://en.wikipedia.org/wiki/Onion_routing)
+    * [TOR](https://en.wikipedia.org/wiki/Tor_(anonymity_network))
+  * [Overlay network](https://en.wikipedia.org/wiki/Overlay_network)
+    * [I2P](https://en.wikipedia.org/wiki/I2P)
+    * [Darknet](https://en.wikipedia.org/wiki/Darknet)
 ## Cybersecurity Standarts and Documents
 * [Penetration Testing Execution Standart](http://www.pentest-standard.org/index.php/Main_Page)
 * [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
