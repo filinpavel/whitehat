@@ -95,7 +95,12 @@ Method:
 ## System Hacking
 * Objectives:
   * Gain Access to System: [Password cracking](https://en.wikipedia.org/wiki/Password_cracking), [Preimage attack](https://en.wikipedia.org/wiki/Preimage_attack), cracking Windows [SAM](https://en.wikipedia.org/wiki/Security_Account_Manager) datbase
-    * Tools: [chntpw](http://pogostick.net/~pnh/ntpasswd/)
+  * [Authentication](https://en.wikipedia.org/wiki/Authentication), [Authorization](https://en.wikipedia.org/wiki/Authorization), [Access control](https://en.wikipedia.org/wiki/Access_control)
+   * [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) 
+   * [Computer access control](https://en.wikipedia.org/wiki/Computer_access_control)
+   * [Access control list](https://en.wikipedia.org/wiki/Access_control_list)
+   * [File system permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+     * Tools: [chntpw](http://pogostick.net/~pnh/ntpasswd/)
   * [Priveledge Escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
   * Maintain [Remote Access](https://en.wikipedia.org/wiki/Remote_administration_software)
     * Tools: njRAT, SwayzCryptor, [DarkComet](https://en.wikipedia.org/wiki/DarkComet)
@@ -124,16 +129,17 @@ Method:
 * [Advanced Persistent Threat (APT)](https://en.wikipedia.org/wiki/Advanced_persistent_threat)
 * [Fileless Malware](https://en.wikipedia.org/wiki/Fileless_malware)
 * [Antivirus Software](https://en.wikipedia.org/wiki/Antivirus_software)
-* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data)
+* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data), [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware)
 
 ## Sniffing
 * [Promiscuous mode](https://en.wikipedia.org/wiki/Promiscuous_mode)
 * [Pcap](https://en.wikipedia.org/wiki/Pcap)
 * [Traffic analysis](https://en.wikipedia.org/wiki/Traffic_analysis)
 * [MAC Flooding](https://en.wikipedia.org/wiki/MAC_flooding)
+  * Tools: [dSniff](https://www.monkey.org/~dugsong/dsniff/)
 * [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
   * Tools: [XArp](http://www.xarp.net/)
-* Tools: [Packet Analyzer](https://en.wikipedia.org/wiki/Packet_analyzer), [Wireshark](https://www.wireshark.org/), [Capsa Network Analyzer](http://www.colasoft.com/capsa/), [OmniPeek](https://www.savvius.com/products/network_forensics_for_security_investigations/omnipeek_for_security)
+* Tools: [Packet Analyzer](https://en.wikipedia.org/wiki/Packet_analyzer), [Wireshark](https://www.wireshark.org/), [Capsa Network Analyzer](http://www.colasoft.com/capsa/), [OmniPeek](https://www.savvius.com/products/network_forensics_for_security_investigations/omnipeek_for_security), [Yersinia](http://www.yersinia.net)
 * Resources:
 
 ## [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security))
@@ -249,13 +255,15 @@ Method:
    * Parsing Registry
    * User Activity
    * Cache, Cookie and Browser History Analysis
-   * Checking Integrity
+   * Checking [Integrity](https://en.wikipedia.org/wiki/File_verification)
    * Searching with Event Viewer
  * Tools: [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html), [AutoPsy](https://www.sleuthkit.org/autopsy/),[Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [hardinfo](http://hardinfo.berlios.de/)
 * Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response), [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page), [DFIR](http://www.dfir.training/), [NIST SP 800 86 Guide to Integrating Forensic Techniques into Incident Response](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf)
 
 ## [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 * [Software cracking](https://en.wikipedia.org/wiki/Software_cracking)
+* [Portable Executable](https://en.wikipedia.org/wiki/Portable_Executable)
+* [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 * [Debugging](https://en.wikipedia.org/wiki/Debugging)
   * [Debugger](https://en.wikipedia.org/wiki/Debugger)
     * Tools: [x64_dbg](http://x64dbg.com/), [Immunity Debugger](http://debugger.immunityinc.com/), [GNU Debugger](http://www.gnu.org/software/gdb/), [WDK\Windbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx), [OllyDBG](http://www.ollydbg.de/)
@@ -265,7 +273,7 @@ Method:
 * [Obfuscation](https://en.wikipedia.org/wiki/Obfuscation_(software))
 * [Anti-tamper software](https://en.wikipedia.org/wiki/Anti-tamper_software)
 * Tools: [Radare2](http://rada.re/r/index.html), [dnSpy](https://github.com/0xd4d/dnSpy), 
-* Resources: [Awesome-Reversing](https://github.com/tylerph3/awesome-reversing)
+* Resources: [Awesome-Reversing](https://github.com/tylerph3/awesome-reversing), [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 
 ## [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
 *
@@ -280,7 +288,7 @@ Method:
 * [Triple DES](https://en.wikipedia.org/wiki/Triple_DES)
   * Resources: [NIST SP 800 67 r1 Recommendation forthe Triple Data Encryption Algorithm (TDEA) Block Cipher](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-67r1.pdf)
 * [Advanced Encryption Standart (AES)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
-  * Resources: [FIPS 197	Advanced Encryption Standard](http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf)
+  * Resources: [FIPS 197	Advanced Encryption Standard](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf)
   * Tools: [ccrypt](http://ccrypt.sourceforge.net/), [WinAES](https://github.com/yunzhu-li/winaes)
 * [RC4](https://en.wikipedia.org/wiki/RC4), [RC5](https://en.wikipedia.org/wiki/RC5), [RC6](https://en.wikipedia.org/wiki/RC6) Algorithms
 * [Digital Signature Algorithm (DSA)](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
