@@ -4,7 +4,7 @@
 * [Scanning Networks](#scanning-networks)
 * [Enumeration](#enumeration)
 * [System Hacking](#system-hacking)
-* [Malware Threats](#malware-threats)
+* [Malware Threats](#malware-threats-trojans-and-viruses)
 * [Sniffing](#sniffing)
 * [Social Engineering](#social-engineering)
 * [Denial-of-Service](#denial-of-service)
@@ -65,6 +65,7 @@
   * Discover [services](https://en.wikipedia.org/wiki/Windows_service) \ [daemons](https://en.wikipedia.org/wiki/Daemon_(computing)) running
   * Discover [vulnerabilities](https://en.wikipedia.org/wiki/Vulnerability_(computing)):
     * Tools: [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner), [OpenVAS](http://www.openvas.org/), [Microsoft Baseline Security Analyzer](https://technet.microsoft.com/ru-ru/security/cc184924.aspx) 
+  * Analysis of probable [threats](https://en.wikipedia.org/wiki/Threat_(computer))
   * Drawing network diagrams of vulnerable hosts
   * Getting ready [proxies](https://en.wikipedia.org/wiki/Proxy_server) and [anonymizers](https://en.wikipedia.org/wiki/Anonymizer)
     * Tools: [ProxySwitcher](https://www.proxyswitcher.com/), [CyberGhost](http://www.cyberghostvpn.com/)
@@ -128,6 +129,7 @@ Method:
 * [Cryptovirology](https://en.wikipedia.org/wiki/Cryptovirology)
 * [Advanced Persistent Threat (APT)](https://en.wikipedia.org/wiki/Advanced_persistent_threat)
 * [Fileless Malware](https://en.wikipedia.org/wiki/Fileless_malware)
+* [Zero-day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 * [Antivirus Software](https://en.wikipedia.org/wiki/Antivirus_software)
 * Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data), [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware)
 
@@ -149,11 +151,13 @@ Method:
 * Resources: 
 
 ## [Denial-of-Service](https://en.wikipedia.org/wiki/Denial-of-service_attack)
+* [SYN flood](https://en.wikipedia.org/wiki/SYN_flood)
 * [Botnet](https://en.wikipedia.org/wiki/Botnet)
 * [Zombie](https://en.wikipedia.org/wiki/Zombie_(computer_science))
 * [Command and Control](https://en.wikipedia.org/wiki/Command_and_control_(malware))
 * Tools: [Low Orbit Ion Cannon](https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon), [High Orbit Ion Cannon](https://en.wikipedia.org/wiki/High_Orbit_Ion_Cannon)
-* Resources: [RFC4732](https://tools.ietf.org/html/rfc4732)
+* Casestudy: [BASHLITE](https://en.wikipedia.org/wiki/BASHLITE), [Shellshock](https://en.wikipedia.org/wiki/Shellshock_(software_bug))
+* Resources: [RFC4732 Internet DoS Considerations](https://tools.ietf.org/html/rfc4732), [RFC4987 TCP SYN Flooding Attacks](https://tools.ietf.org/html/rfc4987)
 
 ## [Session Hacking](https://en.wikipedia.org/wiki/Session_hijacking)
 * [Spoofing](https://en.wikipedia.org/wiki/Spoofing_attack)
@@ -271,6 +275,7 @@ Method:
   * Tools: [IDA Pro](https://www.hex-rays.com/products/ida/), [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml)
 * [Decompiler](https://en.wikipedia.org/wiki/Decompiler)
 * [Obfuscation](https://en.wikipedia.org/wiki/Obfuscation_(software))
+* [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
 * [Anti-tamper software](https://en.wikipedia.org/wiki/Anti-tamper_software)
 * Tools: [Radare2](http://rada.re/r/index.html), [dnSpy](https://github.com/0xd4d/dnSpy), 
 * Resources: [Awesome-Reversing](https://github.com/tylerph3/awesome-reversing), [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
@@ -324,11 +329,15 @@ Method:
 * [Intrernet privacy](https://en.wikipedia.org/wiki/Internet_privacy)
 * [Personally Identifiable Information](https://en.wikipedia.org/wiki/Personally_identifiable_information)
 * [Secure communications](https://en.wikipedia.org/wiki/Secure_communication)
+  * [Virtual Private Network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network)
+    * Tools: [OpenVPN](https://openvpn.net/index.php/open-source/downloads.html), [SoftEtherVPN](http://www.softether.org/)
   * [Onion routing](https://en.wikipedia.org/wiki/Onion_routing)
     * [TOR](https://en.wikipedia.org/wiki/Tor_(anonymity_network))
   * [Overlay network](https://en.wikipedia.org/wiki/Overlay_network)
     * [I2P](https://en.wikipedia.org/wiki/I2P)
     * [Darknet](https://en.wikipedia.org/wiki/Darknet)
+ * [Secure messaging](https://en.wikipedia.org/wiki/Secure_messaging)
+   * [Off-the-record Messaging](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
 ## Cybersecurity Standarts and Documents
 * [Penetration Testing Execution Standart](http://www.pentest-standard.org/index.php/Main_Page)
   * [PTES Technical Guidelines](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
@@ -339,3 +348,4 @@ Method:
 * [ISO/IEC 27033-1:2015 Security techniques - Network security](https://www.iso.org/standard/63461.html)
 * [NIST SP 800-115 Technical Guide to Information Security Testing and Assessment](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf)
 * [Payment Card Industry Data Security Standard](https://www.pcisecuritystandards.org/document_library)
+  * [Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration_Testing_Guidance_March_2015.pdf)
