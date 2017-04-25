@@ -131,6 +131,7 @@ Method:
 * [Fileless Malware](https://en.wikipedia.org/wiki/Fileless_malware)
 * [Zero-day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 * [Antivirus Software](https://en.wikipedia.org/wiki/Antivirus_software)
+  * Tools: [DrWeb CureIt](https://free.drweb.com/?lng=en), [Dr.Web LiveDisk](https://free.drweb.com/aid_admin/?lng=en), [ESET SysRescue Live](https://www.eset.com/int/support/sysrescue/) [Malwarebytes AntiMalware](https://www.malwarebytes.com/),  [Kaspersky Free](http://www.kaspersky.ru/free-antivirus), [Kaspersky Rescue Disk](http://support.kaspersky.com/viruses/rescuedisk)
 * Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data), [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware)
 
 ## Sniffing
