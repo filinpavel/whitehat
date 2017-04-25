@@ -101,7 +101,7 @@ Method:
    * [Computer access control](https://en.wikipedia.org/wiki/Computer_access_control)
    * [Access control list](https://en.wikipedia.org/wiki/Access_control_list)
    * [File system permissions](https://en.wikipedia.org/wiki/File_system_permissions)
-     * Tools: [chntpw](http://pogostick.net/~pnh/ntpasswd/)
+     * Tools: [chntpw](http://pogostick.net/~pnh/ntpasswd/), [HashCat](https://hashcat.net/hashcat/), [KON-BOOT](http://www.piotrbania.com/all/kon-boot/)
   * [Priveledge Escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
   * Maintain [Remote Access](https://en.wikipedia.org/wiki/Remote_administration_software)
     * Tools: njRAT, SwayzCryptor, [DarkComet](https://en.wikipedia.org/wiki/DarkComet)
@@ -131,7 +131,7 @@ Method:
 * [Fileless Malware](https://en.wikipedia.org/wiki/Fileless_malware)
 * [Zero-day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 * [Antivirus Software](https://en.wikipedia.org/wiki/Antivirus_software)
-  * Tools: [DrWeb CureIt](https://free.drweb.com/?lng=en), [Dr.Web LiveDisk](https://free.drweb.com/aid_admin/?lng=en), [ESET SysRescue Live](https://www.eset.com/int/support/sysrescue/) [Malwarebytes AntiMalware](https://www.malwarebytes.com/),  [Kaspersky Free](http://www.kaspersky.ru/free-antivirus), [Kaspersky Rescue Disk](http://support.kaspersky.com/viruses/rescuedisk)
+  * Tools: [DrWeb CureIt](https://free.drweb.com/?lng=en), [Dr.Web LiveDisk](https://free.drweb.com/aid_admin/?lng=en), [ESET SysRescue Live](https://www.eset.com/int/support/sysrescue/) [Malwarebytes AntiMalware](https://www.malwarebytes.com/),  [Kaspersky Free](http://www.kaspersky.ru/free-antivirus), [Kaspersky Rescue Disk](http://support.kaspersky.com/viruses/rescuedisk), [ClamAV](https://www.clamav.net/)
 * Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data), [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware)
 
 ## Sniffing
@@ -210,8 +210,8 @@ Method:
 * [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting)
   * Tools: [XSSer](https://xsser.03c8.net/)
 * [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
-* Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](), [W3AF](https://github.com/andresriancho/w3af), [WPScan](), [Joomscan]()
-* Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
+* Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](), [W3AF](https://github.com/andresriancho/w3af), [WPScan](), [Joomscan](),[BeEF](http://beefproject.com/)
+* Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking), [WASC Threat Classification](http://projects.webappsec.org/w/page/13246978/Threat%20Classification), [Bug Hunters Methodology](https://github.com/jhaddix/tbhm#the-bug-hunters-methodology)
 
 ## [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
 * 
@@ -240,7 +240,7 @@ Method:
 * [Mobile OS](https://en.wikipedia.org/wiki/Mobile_operating_system)
 * [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
 * Tools: [RemixOS player](http://www.jide.com/remixos-player)
-* Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome)
+* Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome), [NIST SP 1800-4 Mobile Device Security](https://nccoe.nist.gov/projects/building_blocks/mobile_device_security), [Mobile Threat Catalogue](https://github.com/usnistgov/mobile-threat-catalogue), [OWASP Mobile Security Project](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Controls)
 
 ## Evading [IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system), [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) and [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 * Network-based Intrusion Detection System
@@ -285,7 +285,7 @@ Method:
 *
 *
 *
-*
+* Resources: [OWASP Cloud](https://www.owasp.org/index.php/Category:OWASP_Cloud_%E2%80%90_10_Project)
 
 ## [Cryptography](https://en.wikipedia.org/wiki/Cryptography) and [Anonimity]()
  * Objectives: Confidentiality, [Integrity](https://en.wikipedia.org/wiki/Data_integrity), [Authenication](https://en.wikipedia.org/wiki/Authentication), [Non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
@@ -347,6 +347,7 @@ Method:
 * [Open Source Security Testing Methodology Manual (OSSTMM)](http://www.isecom.org/research/osstmm.html)
 * [ISO/IEC 27001:2013 Information security management systems - Requirements](https://www.iso.org/standard/54534.html)
 * [ISO/IEC 27033-1:2015 Security techniques - Network security](https://www.iso.org/standard/63461.html)
+* [Penetration Testing Framework](http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html)
 * [NIST SP 800-115 Technical Guide to Information Security Testing and Assessment](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf)
 * [Payment Card Industry Data Security Standard](https://www.pcisecuritystandards.org/document_library)
   * [Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration_Testing_Guidance_March_2015.pdf)
