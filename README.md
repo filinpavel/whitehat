@@ -87,7 +87,7 @@ Method:
 * [NetBIOS](https://en.wikipedia.org/wiki/NetBIOS) Enumeration
   * Tools: [ShareEnum](https://technet.microsoft.com/en-us/sysinternals/shareenum)
 * [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) Enumeration
-  * Tools: [SNMPCHECK](http://www.nothink.org/codes/snmpcheck/index.php)
+  * Tools: [SNMPCHECK](http://www.nothink.org/codes/snmpcheck/index.php), [SNMP-Brute](https://nmap.org/nsedoc/scripts/snmp-brute.html)
 * [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) Enumeration
   * Tools: [ADExplorer](https://technet.microsoft.com/en-us/sysinternals/adexplorer.aspx) 
 * [NTP](https://en.wikipedia.org/wiki/Network_Time_Protocol) Enumeration
@@ -97,6 +97,7 @@ Method:
 * Objectives:
   * Gain Access to System: [Password cracking](https://en.wikipedia.org/wiki/Password_cracking), [Preimage attack](https://en.wikipedia.org/wiki/Preimage_attack), cracking Windows [SAM](https://en.wikipedia.org/wiki/Security_Account_Manager) datbase
   * [Authentication](https://en.wikipedia.org/wiki/Authentication), [Authorization](https://en.wikipedia.org/wiki/Authorization), [Access control](https://en.wikipedia.org/wiki/Access_control)
+    * [Password policy](https://en.wikipedia.org/wiki/Password_policy)
    * [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) 
    * [Computer access control](https://en.wikipedia.org/wiki/Computer_access_control)
    * [Access control list](https://en.wikipedia.org/wiki/Access_control_list)
@@ -210,7 +211,7 @@ Method:
 * [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting)
   * Tools: [XSSer](https://xsser.03c8.net/)
 * [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
-* Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](), [W3AF](https://github.com/andresriancho/w3af), [WPScan](), [Joomscan](),[BeEF](http://beefproject.com/)
+* Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](), [W3AF](https://github.com/andresriancho/w3af), [WPScan](), [Joomscan](),[BeEF](http://beefproject.com/), [N-Stalker](http://www.nstalker.com/products/editions/free/)
 * Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking), [WASC Threat Classification](http://projects.webappsec.org/w/page/13246978/Threat%20Classification), [Bug Hunters Methodology](https://github.com/jhaddix/tbhm#the-bug-hunters-methodology)
 
 ## [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
@@ -239,6 +240,7 @@ Method:
 ## Hacking Mobile Platforms
 * [Mobile OS](https://en.wikipedia.org/wiki/Mobile_operating_system)
 * [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
+* [Rooting](https://en.wikipedia.org/wiki/Rooting_(Android_OS)), [Jailbreaking](https://en.wikipedia.org/wiki/IOS_jailbreaking)
 * Tools: [RemixOS player](http://www.jide.com/remixos-player)
 * Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome), [NIST SP 1800-4 Mobile Device Security](https://nccoe.nist.gov/projects/building_blocks/mobile_device_security), [Mobile Threat Catalogue](https://github.com/usnistgov/mobile-threat-catalogue), [OWASP Mobile Security Project](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Controls)
 
@@ -321,7 +323,7 @@ Method:
 * [Disk Encryption](https://en.wikipedia.org/wiki/Disk_encryption)
  * Tools: [VeraCrypt](https://sourceforge.net/projects/veracrypt/), []()
 * Case study: [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed), [Poodle](https://en.wikipedia.org/wiki/POODLE)
-* Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography), [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
+* Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography), [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis), [Crypto 101](https://www.crypto101.io/)
 ### [Anonimity](https://en.wikipedia.org/wiki/Anonymity)
 * [Anonymous blogging](https://en.wikipedia.org/wiki/Anonymous_blog)
 * [Anonymous peer-to-peer](https://en.wikipedia.org/wiki/Anonymous_P2P)
