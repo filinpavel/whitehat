@@ -131,6 +131,7 @@ Method:
 * [Advanced Persistent Threat (APT)](https://en.wikipedia.org/wiki/Advanced_persistent_threat)
 * [Fileless Malware](https://en.wikipedia.org/wiki/Fileless_malware)
 * [Zero-day](https://en.wikipedia.org/wiki/Zero-day_(computing))
+* [Point-of-Sale Malware](https://en.wikipedia.org/wiki/Point-of-sale_malware)
 * [Antivirus Software](https://en.wikipedia.org/wiki/Antivirus_software)
   * Tools: [DrWeb CureIt](https://free.drweb.com/?lng=en), [Dr.Web LiveDisk](https://free.drweb.com/aid_admin/?lng=en), [ESET SysRescue Live](https://www.eset.com/int/support/sysrescue/) [Malwarebytes AntiMalware](https://www.malwarebytes.com/),  [Kaspersky Free](http://www.kaspersky.ru/free-antivirus), [Kaspersky Rescue Disk](http://support.kaspersky.com/viruses/rescuedisk), [ClamAV](https://www.clamav.net/)
 * Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data), [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware)
@@ -143,7 +144,7 @@ Method:
   * Tools: [dSniff](https://www.monkey.org/~dugsong/dsniff/)
 * [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
   * Tools: [XArp](http://www.xarp.net/)
-* Tools: [Packet Analyzer](https://en.wikipedia.org/wiki/Packet_analyzer), [Wireshark](https://www.wireshark.org/), [Capsa Network Analyzer](http://www.colasoft.com/capsa/), [OmniPeek](https://www.savvius.com/products/network_forensics_for_security_investigations/omnipeek_for_security), [Yersinia](http://www.yersinia.net)
+* Tools: [Packet Analyzer](https://en.wikipedia.org/wiki/Packet_analyzer), [Wireshark](https://www.wireshark.org/), [Capsa Network Analyzer](http://www.colasoft.com/capsa/), [OmniPeek](https://www.savvius.com/products/network_forensics_for_security_investigations/omnipeek_for_security), [Yersinia](http://www.yersinia.net), [Intercepter-NG](sniff.su)
 * Resources:
 
 ## [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security))
@@ -212,7 +213,7 @@ Method:
   * Tools: [XSSer](https://xsser.03c8.net/)
 * [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
 * Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](), [W3AF](https://github.com/andresriancho/w3af), [WPScan](), [Joomscan](),[BeEF](http://beefproject.com/), [N-Stalker](http://www.nstalker.com/products/editions/free/)
-* Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking), [WASC Threat Classification](http://projects.webappsec.org/w/page/13246978/Threat%20Classification), [Bug Hunters Methodology](https://github.com/jhaddix/tbhm#the-bug-hunters-methodology)
+* Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking), [WASC Threat Classification](http://projects.webappsec.org/w/page/13246978/Threat%20Classification), [Bug Hunters Methodology](https://github.com/jhaddix/tbhm#the-bug-hunters-methodology), [Hacksplaining](https://www.hacksplaining.com)
 
 ## [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
 * 
@@ -351,5 +352,6 @@ Method:
 * [ISO/IEC 27033-1:2015 Security techniques - Network security](https://www.iso.org/standard/63461.html)
 * [Penetration Testing Framework](http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html)
 * [NIST SP 800-115 Technical Guide to Information Security Testing and Assessment](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf)
+* [RFC 2196 Site Security Handbook](https://tools.ietf.org/html/rfc2196)
 * [Payment Card Industry Data Security Standard](https://www.pcisecuritystandards.org/document_library)
   * [Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration_Testing_Guidance_March_2015.pdf)
