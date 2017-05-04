@@ -134,7 +134,7 @@ Method:
 * [Point-of-Sale Malware](https://en.wikipedia.org/wiki/Point-of-sale_malware)
 * [Antivirus Software](https://en.wikipedia.org/wiki/Antivirus_software)
   * Tools: [DrWeb CureIt](https://free.drweb.com/?lng=en), [Dr.Web LiveDisk](https://free.drweb.com/aid_admin/?lng=en), [ESET SysRescue Live](https://www.eset.com/int/support/sysrescue/) [Malwarebytes AntiMalware](https://www.malwarebytes.com/),  [Kaspersky Free](http://www.kaspersky.ru/free-antivirus), [Kaspersky Rescue Disk](http://support.kaspersky.com/viruses/rescuedisk), [ClamAV](https://www.clamav.net/)
-* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data), [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware)
+* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data), [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware), [Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
 
 ## Sniffing
 * [Promiscuous mode](https://en.wikipedia.org/wiki/Promiscuous_mode)
@@ -236,7 +236,7 @@ Method:
 * [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
 
 * Tools: [aircrack-ng](http://www.aircrack-ng.org/), [CommView for Wifi](http://www.tamos.com/products/commwifi/), [Kismet](http://www.kismetwireless.net/)
-* Resources: [SP 800-153	Guidelines for Securing Wireless Local Area Networks (WLANs)](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-153.pdf)
+* Resources: [WiFi Arsenal](https://github.com/0x90/wifi-arsenal), [SP 800-153	Guidelines for Securing Wireless Local Area Networks (WLANs)](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-153.pdf)
 
 ## Hacking Mobile Platforms
 * [Mobile OS](https://en.wikipedia.org/wiki/Mobile_operating_system)
