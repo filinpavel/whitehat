@@ -265,8 +265,8 @@ Method:
    * Cache, Cookie and Browser History Analysis
    * Checking [Integrity](https://en.wikipedia.org/wiki/File_verification)
    * Searching with Event Viewer
- * Tools: [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html), [AutoPsy](https://www.sleuthkit.org/autopsy/),[Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [hardinfo](http://hardinfo.berlios.de/)
-* Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response), [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page), [DFIR](http://www.dfir.training/), [NIST SP 800 86 Guide to Integrating Forensic Techniques into Incident Response](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf)
+ * Tools: [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html), [AutoPsy](https://www.sleuthkit.org/autopsy/),[Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [PowerForensics](https://github.com/Invoke-IR/PowerForensics)
+* Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response), [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page), [DFIR](http://www.dfir.training/), [NIST SP 800 86 Guide to Integrating Forensic Techniques into Incident Response](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf), [ENISA training material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
 
 ## [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 * [Software cracking](https://en.wikipedia.org/wiki/Software_cracking)
