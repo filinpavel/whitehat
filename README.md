@@ -109,7 +109,7 @@ Method:
   * [Keyloggers](https://en.wikipedia.org/wiki/Keystroke_logging)
   * [Spyware](https://en.wikipedia.org/wiki/Spyware)
   * [Rootkit](https://en.wikipedia.org/wiki/Rootkit)
-  * [Exploit](https://en.wikipedia.org/wiki/Exploit_(computer_security))
+  * [Exploit](https://en.wikipedia.org/wiki/Exploit_(computer_security)) and [Exploit kit](https://en.wikipedia.org/wiki/Exploit_kit)
     * Tools: [Metasploit](https://www.metasploit.com/)
   * [Backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing))
     * Tools: [Backdoor factory](https://github.com/secretsquirrel/the-backdoor-factory)
@@ -126,8 +126,11 @@ Method:
 ## [Malware](https://en.wikipedia.org/wiki/Malware) Threats, [Trojans](https://en.wikipedia.org/wiki/Trojan_horse_(computing)) and [Viruses](https://en.wikipedia.org/wiki/Computer_virus)
 * Methods:
   * [Malware Analysys](https://en.wikipedia.org/wiki/Malware_analysis)
-    * Tools: [Cuckoo Sandbox](https://cuckoosandbox.org/), [Sandboxie](https://www.sandboxie.com/)
+    * Tools: [Cuckoo Sandbox](https://cuckoosandbox.org/), [Sandboxie](https://www.sandboxie.com/), [Buster Sandbox Analyzer](http://bsa.isoftware.nl/)
+* [Macro virus](https://en.wikipedia.org/wiki/Macro_virus)
+* [Ransomware](https://en.wikipedia.org/wiki/Ransomware)
 * [Cryptovirology](https://en.wikipedia.org/wiki/Cryptovirology)
+  * [Kleptography](https://en.wikipedia.org/wiki/Kleptography)
 * [Advanced Persistent Threat (APT)](https://en.wikipedia.org/wiki/Advanced_persistent_threat)
 * [Fileless Malware](https://en.wikipedia.org/wiki/Fileless_malware)
 * [Zero-day](https://en.wikipedia.org/wiki/Zero-day_(computing))
@@ -209,6 +212,7 @@ Method:
 
 ## Hacking Web Applications
 * [Web Application Security](https://en.wikipedia.org/wiki/Web_application_security)
+* [Bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program)
 * [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting)
   * Tools: [XSSer](https://xsser.03c8.net/)
 * [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
