@@ -212,11 +212,14 @@ Method:
 
 ## Hacking Web Applications
 * [Web Application Security](https://en.wikipedia.org/wiki/Web_application_security)
+* [Web application security scanner](https://en.wikipedia.org/wiki/Web_application_security_scanner)
+  * Resources: [NIST SP 500-269 Web Application Security Scanner 
+Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500-269.pdf)
 * [Bug bounty](https://en.wikipedia.org/wiki/Bug_bounty_program)
 * [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting)
   * Tools: [XSSer](https://xsser.03c8.net/)
 * [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
-* Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](), [W3AF](https://github.com/andresriancho/w3af), [WPScan](), [Joomscan](),[BeEF](http://beefproject.com/), [N-Stalker](http://www.nstalker.com/products/editions/free/)
+* Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](https://www.netsparker.com/web-vulnerability-scanner/), [W3AF](https://github.com/andresriancho/w3af), [WPScan](), [Joomscan](),[BeEF](http://beefproject.com/), [N-Stalker](http://www.nstalker.com/products/editions/free/)
 * Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking), [WASC Threat Classification](http://projects.webappsec.org/w/page/13246978/Threat%20Classification), [Bug Hunters Methodology](https://github.com/jhaddix/tbhm#the-bug-hunters-methodology), [Hacksplaining](https://www.hacksplaining.com)
 
 ## [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
