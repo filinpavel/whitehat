@@ -54,7 +54,7 @@
   * Network footprinting: [TCP/IP stack fingerprinting](https://en.wikipedia.org/wiki/TCP/IP_stack_fingerprinting)
     * Tools: [Qualys SSL LAB](http://ssllab.com/sslscan), traceroute, Nmap, p0f, [SHODAN](https://www.shodan.io/), [Censys](https://www.censys.io/), [ZoomEye](https://www.zoomeye.org/)
   * Footprinting using Social Engineering
- * Tools: [Maltego](https://www.paterva.com/web7/buy/maltego-clients.php), [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng), FOCA, [Metagoofil](http://www.edge-security.com/metagoofil.php)
+ * Tools: [Maltego](https://www.paterva.com/web7/buy/maltego-clients.php), [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng), [FOCA](https://www.elevenpaths.com/labstools/foca/index.html), [Metagoofil](http://www.edge-security.com/metagoofil.php)
  * Resources: [Awesome-OSINT](https://github.com/jivoi/awesome-osint)
  
 ## Scanning Networks
@@ -152,6 +152,7 @@ Method:
 
 ## [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security))
 * [Security Awareness](https://en.wikipedia.org/wiki/Security_awareness)
+* [Information diving](https://en.wikipedia.org/wiki/Information_diving)
 * [Phishing](https://en.wikipedia.org/wiki/Phishing)
 * Tools: [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit), [Simple Phishing Toolkit](https://github.com/jackl0phty/sptoolkit)
 * Resources: 
