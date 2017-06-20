@@ -309,7 +309,7 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
   * Tools: [ccrypt](http://ccrypt.sourceforge.net/), [WinAES](https://github.com/yunzhu-li/winaes)
 * [RC4](https://en.wikipedia.org/wiki/RC4), [RC5](https://en.wikipedia.org/wiki/RC5), [RC6](https://en.wikipedia.org/wiki/RC6) Algorithms
 * [Digital Signature Algorithm (DSA)](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
-  * Resources: [FIPS 186-4 Digital Signature Standard (DSS)](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf)
+  * Resources: [FIPS 186-4 Digital Signature Standard (DSS)](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf), [NIST SP 800 63 Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)
 * [Rivest Shamir Adleman (RSA)](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 * [Diffie-Hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
   * Resources: [NIST SP 800 56A r2 Recommendation for Pair-Wise Key Establishment Schemes Using Discrete Logarithm Cryptography](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-56Ar2.pdf), [RFC 2631 Diffie-Hellman Key Agreement Method](https://tools.ietf.org/rfc/rfc2631.txt)
@@ -332,7 +332,7 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 * [Disk Encryption](https://en.wikipedia.org/wiki/Disk_encryption)
  * Tools: [VeraCrypt](https://sourceforge.net/projects/veracrypt/), []()
 * Case study: [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed), [Poodle](https://en.wikipedia.org/wiki/POODLE)
-* Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography), [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis), [Crypto 101](https://www.crypto101.io/)
+* Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography), [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis), [Crypto 101](https://www.crypto101.io/), [Cryptography Research and Evaluation Committee](https://en.wikipedia.org/wiki/CRYPTREC), [New European Schemes for Signatures, Integrity and Encryption](https://en.wikipedia.org/wiki/NESSIE)
 ### [Anonimity](https://en.wikipedia.org/wiki/Anonymity)
 * [Anonymous blogging](https://en.wikipedia.org/wiki/Anonymous_blog)
 * [Anonymous peer-to-peer](https://en.wikipedia.org/wiki/Anonymous_P2P)
@@ -363,3 +363,4 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 * [RFC 2196 Site Security Handbook](https://tools.ietf.org/html/rfc2196)
 * [Payment Card Industry Data Security Standard](https://www.pcisecuritystandards.org/document_library)
   * [Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration_Testing_Guidance_March_2015.pdf)
+* [Cybersecurity Framrwork](https://www.nist.gov/cyberframework)
