@@ -15,7 +15,7 @@
 * [Hacking Wireless Networks](#hacking-wireless-networks)
 * [Hacking Mobile Platforms](#hacking-mobile-platform)
 * [Evading IDS, Firewalls and Honeypots](#evading-ids-firewalls-and-honeypots)
-* [Forensics](#forensics-and-incident-response)
+* [Forensics and Incident Response](#forensics-and-incident-response)
 * [Reverse Engineering](#reverse-engineering)
 * [Cloud Computing](#cloud-computing)
 * [Cryptography](#cryptography-and-anonimity)
@@ -135,6 +135,7 @@ Method:
 * [Fileless Malware](https://en.wikipedia.org/wiki/Fileless_malware)
 * [Zero-day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 * [Point-of-Sale Malware](https://en.wikipedia.org/wiki/Point-of-sale_malware)
+  * Casestudy: [Backoff Point-of-Sale Malware](https://www.us-cert.gov/security-publications/Backoff-Point-Sale-Malware)
 * [Antivirus Software](https://en.wikipedia.org/wiki/Antivirus_software)
   * Tools: [DrWeb CureIt](https://free.drweb.com/?lng=en), [Dr.Web LiveDisk](https://free.drweb.com/aid_admin/?lng=en), [ESET SysRescue Live](https://www.eset.com/int/support/sysrescue/) [Malwarebytes AntiMalware](https://www.malwarebytes.com/),  [Kaspersky Free](http://www.kaspersky.ru/free-antivirus), [Kaspersky Rescue Disk](http://support.kaspersky.com/viruses/rescuedisk), [ClamAV](https://www.clamav.net/)
 * Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data), [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware), [Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
@@ -164,7 +165,10 @@ Method:
 * [Command and Control](https://en.wikipedia.org/wiki/Command_and_control_(malware))
 * Tools: [Low Orbit Ion Cannon](https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon), [High Orbit Ion Cannon](https://en.wikipedia.org/wiki/High_Orbit_Ion_Cannon)
 * Casestudy: [BASHLITE](https://en.wikipedia.org/wiki/BASHLITE), [Shellshock](https://en.wikipedia.org/wiki/Shellshock_(software_bug))
-* Resources: [RFC4732 Internet DoS Considerations](https://tools.ietf.org/html/rfc4732), [RFC4987 TCP SYN Flooding Attacks](https://tools.ietf.org/html/rfc4987)
+* Resources: 
+  * [RFC4732 Internet DoS Considerations](https://tools.ietf.org/html/rfc4732)
+  * [RFC4987 TCP SYN Flooding Attacks](https://tools.ietf.org/html/rfc4987)
+  * [US-CERT DDoS Quick Guide](https://www.us-cert.gov/security-publications/DDoS-Quick-Guide)
 
 ## [Session Hacking](https://en.wikipedia.org/wiki/Session_hijacking)
 * [Spoofing](https://en.wikipedia.org/wiki/Spoofing_attack)
@@ -251,7 +255,12 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 * [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
 * [Rooting](https://en.wikipedia.org/wiki/Rooting_(Android_OS)), [Jailbreaking](https://en.wikipedia.org/wiki/IOS_jailbreaking)
 * Tools: [RemixOS player](http://www.jide.com/remixos-player)
-* Resources: [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome), [NIST SP 1800-4 Mobile Device Security](https://nccoe.nist.gov/projects/building_blocks/mobile_device_security), [Mobile Threat Catalogue](https://github.com/usnistgov/mobile-threat-catalogue), [OWASP Mobile Security Project](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Controls)
+* Resources: 
+  * [Android-Security-Awesome](https://github.com/ashishb/android-security-awesome)
+  * [NIST SP 1800-4 Mobile Device Security](https://nccoe.nist.gov/projects/building_blocks/mobile_device_security)
+  * [Mobile Threat Catalogue](https://github.com/usnistgov/mobile-threat-catalogue)
+  * [OWASP Mobile Security Project](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Controls)
+  * [US-CERT Cyber Threats to Mobile Devices](https://www.us-cert.gov/security-publications/technical-information-paper-cyber-threats-mobile-devices)
 
 ## Evading [IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system), [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) and [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 * Network-based Intrusion Detection System
