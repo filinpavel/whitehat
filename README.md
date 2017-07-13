@@ -282,7 +282,7 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
    * Cache, Cookie and Browser History Analysis
    * Checking [Integrity](https://en.wikipedia.org/wiki/File_verification)
    * Searching with Event Viewer
- * Tools: [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html), [AutoPsy](https://www.sleuthkit.org/autopsy/),[Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [PowerForensics](https://github.com/Invoke-IR/PowerForensics)
+ * Tools: [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html), [AutoPsy](https://www.sleuthkit.org/autopsy/),[Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [PowerForensics](https://github.com/Invoke-IR/PowerForensics), [bitscout](https://github.com/vitaly-kamluk/bitscout)
 * Resources: 
   * [Awesome-Forensics](https://github.com/Cugu/awesome-forensics)
   * [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response)
