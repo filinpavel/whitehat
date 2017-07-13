@@ -15,7 +15,7 @@
 * [Hacking Wireless Networks](#hacking-wireless-networks)
 * [Hacking Mobile Platforms](#hacking-mobile-platform)
 * [Evading IDS, Firewalls and Honeypots](#evading-ids-firewalls-and-honeypots)
-* [Forensics](#forensics)
+* [Forensics](#forensics-and-incident-response)
 * [Reverse Engineering](#reverse-engineering)
 * [Cloud Computing](#cloud-computing)
 * [Cryptography](#cryptography-and-anonimity)
@@ -274,7 +274,15 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
    * Checking [Integrity](https://en.wikipedia.org/wiki/File_verification)
    * Searching with Event Viewer
  * Tools: [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html), [AutoPsy](https://www.sleuthkit.org/autopsy/),[Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [PowerForensics](https://github.com/Invoke-IR/PowerForensics)
-* Resources: [Awesome-Forensics](https://github.com/Cugu/awesome-forensics), [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response), [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page), [DFIR](http://www.dfir.training/), [NIST SP 800 86 Guide to Integrating Forensic Techniques into Incident Response](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf), [ENISA training material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
+* Resources: 
+  * [Awesome-Forensics](https://github.com/Cugu/awesome-forensics)
+  * [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response)
+  * [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page)
+  * [DFIR](http://www.dfir.training/)
+  * [NIST SP 800 86 Guide to Integrating Forensic Techniques into Incident Response](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf)
+  * [NIST SP 800 61 Computer Security Incident Handling Guide](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
+  * [ENISA training material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
+  * [CERT Societe Generale Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)
 
 ## [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 * [Software cracking](https://en.wikipedia.org/wiki/Software_cracking)
