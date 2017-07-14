@@ -230,7 +230,7 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 ## [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
 * 
 * 
-*
+* Resources: [Understanding SQL Injection](http://www.cisco.com/c/en/us/about/security-center/sql-injection.html)
 * Tools: [SQLmap](http://sqlmap.org/), [WebCruiser](http://www.janusec.com/product/webcruiser-web-vulnerability-scanner/),[IBM Security AppScan](http://www-03.ibm.com/software/products/ru/appscan)
 
 ## [Hacking Wireless](https://en.wikipedia.org/wiki/Wireless_security) Networks
@@ -380,4 +380,4 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 * [RFC 2196 Site Security Handbook](https://tools.ietf.org/html/rfc2196)
 * [Payment Card Industry Data Security Standard](https://www.pcisecuritystandards.org/document_library)
   * [Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration_Testing_Guidance_March_2015.pdf)
-* [Cybersecurity Framrwork](https://www.nist.gov/cyberframework)
+* [Cybersecurity Framework](https://www.nist.gov/cyberframework)
