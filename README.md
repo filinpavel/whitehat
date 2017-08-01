@@ -138,7 +138,13 @@ Method:
   * Casestudy: [Backoff Point-of-Sale Malware](https://www.us-cert.gov/security-publications/Backoff-Point-Sale-Malware)
 * [Antivirus Software](https://en.wikipedia.org/wiki/Antivirus_software)
   * Tools: [DrWeb CureIt](https://free.drweb.com/?lng=en), [Dr.Web LiveDisk](https://free.drweb.com/aid_admin/?lng=en), [ESET SysRescue Live](https://www.eset.com/int/support/sysrescue/) [Malwarebytes AntiMalware](https://www.malwarebytes.com/),  [Kaspersky Free](http://www.kaspersky.ru/free-antivirus), [Kaspersky Rescue Disk](http://support.kaspersky.com/viruses/rescuedisk), [ClamAV](https://www.clamav.net/)
-* Resources: [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis), [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence), [APT Notes (archived)](https://github.com/kbandla/APTnotes), [APT notes](https://github.com/aptnotes/data), [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware), [Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
+* Resources: 
+  * [Awesome-Malware-Analysis](https://github.com/rshipp/awesome-malware-analysis)
+  * [Awesome-Threat-Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+  * [APT Notes (archived)](https://github.com/kbandla/APTnotes)
+  * [APT notes](https://github.com/aptnotes/data)
+  * [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware)
+  * [Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
 
 ## Sniffing
 * [Promiscuous mode](https://en.wikipedia.org/wiki/Promiscuous_mode)
@@ -225,7 +231,11 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
   * Tools: [XSSer](https://xsser.03c8.net/)
 * [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
 * Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](https://www.netsparker.com/web-vulnerability-scanner/), [W3AF](https://github.com/andresriancho/w3af), [WPScan](), [Joomscan](),[BeEF](http://beefproject.com/), [N-Stalker](http://www.nstalker.com/products/editions/free/)
-* Resources: [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking), [WASC Threat Classification](http://projects.webappsec.org/w/page/13246978/Threat%20Classification), [Bug Hunters Methodology](https://github.com/jhaddix/tbhm#the-bug-hunters-methodology), [Hacksplaining](https://www.hacksplaining.com)
+* Resources: 
+  * [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
+  * [WASC Threat Classification](http://projects.webappsec.org/w/page/13246978/Threat%20Classification)
+  * [Bug Hunters Methodology](https://github.com/jhaddix/tbhm#the-bug-hunters-methodology)
+  * [Hacksplaining](https://www.hacksplaining.com)
 
 ## [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection)
 * 
@@ -248,7 +258,9 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 * [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
 
 * Tools: [aircrack-ng](http://www.aircrack-ng.org/), [CommView for Wifi](http://www.tamos.com/products/commwifi/), [Kismet](http://www.kismetwireless.net/)
-* Resources: [WiFi Arsenal](https://github.com/0x90/wifi-arsenal), [SP 800-153	Guidelines for Securing Wireless Local Area Networks (WLANs)](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-153.pdf)
+* Resources: 
+  * [WiFi Arsenal](https://github.com/0x90/wifi-arsenal)
+  * [SP 800-153	Guidelines for Securing Wireless Local Area Networks (WLANs)](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-153.pdf)
 
 ## Hacking Mobile Platforms
 * [Mobile OS](https://en.wikipedia.org/wiki/Mobile_operating_system)
@@ -316,7 +328,7 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 * Resources: [OWASP Cloud](https://www.owasp.org/index.php/Category:OWASP_Cloud_%E2%80%90_10_Project)
 
 ## [Cryptography](https://en.wikipedia.org/wiki/Cryptography) and [Anonimity]()
- * Objectives: Confidentiality, [Integrity](https://en.wikipedia.org/wiki/Data_integrity), [Authenication](https://en.wikipedia.org/wiki/Authentication), [Non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
+ * Objectives: [Confidentiality](https://en.wikipedia.org/wiki/Confidentiality), [Integrity](https://en.wikipedia.org/wiki/Data_integrity), [Authenication](https://en.wikipedia.org/wiki/Authentication), [Non-repudiation](https://en.wikipedia.org/wiki/Non-repudiation)
  * Types: [Asymmetric](https://en.wikipedia.org/wiki/Public-key_cryptography), [Symmetric](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 * [Data Encryption Standart (DES)](https://en.wikipedia.org/wiki/Data_Encryption_Standard)
 * [Triple DES](https://en.wikipedia.org/wiki/Triple_DES)
@@ -349,7 +361,13 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 * [Disk Encryption](https://en.wikipedia.org/wiki/Disk_encryption)
  * Tools: [VeraCrypt](https://sourceforge.net/projects/veracrypt/), []()
 * Case study: [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed), [Poodle](https://en.wikipedia.org/wiki/POODLE)
-* Resources: [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography), [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis), [Crypto 101](https://www.crypto101.io/), [Cryptography Research and Evaluation Committee](https://en.wikipedia.org/wiki/CRYPTREC), [New European Schemes for Signatures, Integrity and Encryption](https://en.wikipedia.org/wiki/NESSIE)
+* Resources: 
+  * [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography)
+  * [Cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis)
+  * [Crypto 101](https://www.crypto101.io/) 
+  * [Cryptography Research and Evaluation Committee](https://en.wikipedia.org/wiki/CRYPTREC)
+  * [New European Schemes for Signatures, Integrity and Encryption](https://en.wikipedia.org/wiki/NESSIE)
+
 ### [Anonimity](https://en.wikipedia.org/wiki/Anonymity)
 * [Anonymous blogging](https://en.wikipedia.org/wiki/Anonymous_blog)
 * [Anonymous peer-to-peer](https://en.wikipedia.org/wiki/Anonymous_P2P)
