@@ -278,7 +278,10 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 * Network-based Intrusion Detection System
 * [Host-based Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system)
 * Tools: [Snort](https://www.snort.org/), [KFSensor](http://www.keyfocus.net/kfsensor/), [HoneyBot](http://www.atomicsoftwaresolutions.com/), [Security Onion](https://github.com/Security-Onion-Solutions/security-onion), [HoneyDrive](http://bruteforcelab.com/honeydrive)
-* Resources: [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
+* Resources: 
+  * [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
+  * [NIST SP 800 94 Guide to Intrusion Detection
+and Prevention Systems ](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-94.pdf)
 
 ## [Forensics](https://en.wikipedia.org/wiki/Digital_forensics) and [Incident Response](https://en.wikipedia.org/wiki/Computer_security_incident_management)
 * [Digital forensics process](https://en.wikipedia.org/wiki/Digital_forensic_process)
