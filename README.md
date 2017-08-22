@@ -96,7 +96,14 @@ Method:
 ## System Hacking
 * Objectives:
   * Gain Access to System: [Password cracking](https://en.wikipedia.org/wiki/Password_cracking), [Preimage attack](https://en.wikipedia.org/wiki/Preimage_attack), cracking Windows [SAM](https://en.wikipedia.org/wiki/Security_Account_Manager) datbase
-  * [Authentication](https://en.wikipedia.org/wiki/Authentication), [Authorization](https://en.wikipedia.org/wiki/Authorization), [Access control](https://en.wikipedia.org/wiki/Access_control)
+  * [Authentication](https://en.wikipedia.org/wiki/Authentication)
+   * [Time-based One-time Password Algorithm](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm), [RFC6238](https://tools.ietf.org/html/rfc6238)
+   * [HMAC-based One-time Password Algorithm](https://en.wikipedia.org/wiki/HMAC-based_One-time_Password_Algorithm), [RFC4226](https://tools.ietf.org/html/rfc4226)
+   * [Biometrics](https://en.wikipedia.org/wiki/Biometrics)
+     * Resources:
+       * 
+  * [Authorization](https://en.wikipedia.org/wiki/Authorization)
+  * [Access control](https://en.wikipedia.org/wiki/Access_control)
     * [Password policy](https://en.wikipedia.org/wiki/Password_policy)
    * [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) 
    * [Computer access control](https://en.wikipedia.org/wiki/Computer_access_control)
@@ -359,7 +366,11 @@ and Prevention Systems ](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialp
  * [Certificate Authority (CA)](https://en.wikipedia.org/wiki/Certificate_authority)
  * [Validation Authority](https://en.wikipedia.org/wiki/Validation_authority)
  * [Self-signed certificate](https://en.wikipedia.org/wiki/Self-signed_certificate)
-* [Secure Sockets Layer (SSL)](https://en.wikipedia.org/wiki/Transport_Layer_Security), [RFC6101](https://www.rfc-editor.org/rfc/rfc6101.txt)
+* [Secure Sockets Layer (SSL)](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+  * Resources: 
+    * [RFC6101](https://www.rfc-editor.org/rfc/rfc6101.txt)
+    * [RFC7525](https://www.rfc-editor.org/info/rfc7525)
+    * [NIST SP 800-52 Guidelines for the Selection, Configuration, and Use of TLS Implementations](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-52r1.pdf)
  * Tools: [OpenSSL](https://www.openssl.org/), [GnuTLS](http://gnutls.org/), [LibreSSL](http://www.libressl.org/), [stunnel](https://www.stunnel.org/index.html), [Keyczar](https://github.com/google/keyczar)
 * [Disk Encryption](https://en.wikipedia.org/wiki/Disk_encryption)
  * Tools: [VeraCrypt](https://sourceforge.net/projects/veracrypt/), []()
