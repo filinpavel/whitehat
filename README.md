@@ -279,6 +279,7 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
   * [NIST SP 1800-4 Mobile Device Security](https://nccoe.nist.gov/projects/building_blocks/mobile_device_security)
   * [Mobile Threat Catalogue](https://github.com/usnistgov/mobile-threat-catalogue)
   * [OWASP Mobile Security Project](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Controls)
+  * [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg/)
   * [US-CERT Cyber Threats to Mobile Devices](https://www.us-cert.gov/security-publications/technical-information-paper-cyber-threats-mobile-devices)
 
 ## Evading [IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system), [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) and [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
