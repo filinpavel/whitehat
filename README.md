@@ -285,8 +285,15 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 ## Evading [IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system), [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) and [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 * Network-based Intrusion Detection System
 * [Host-based Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system)
+* System Integrity Verifier (SIV)
+* [Demilitarized zone (DMZ)](https://en.wikipedia.org/wiki/DMZ_(computing))
+* [Intrusion detection system evasion techniques](https://en.wikipedia.org/wiki/Intrusion_detection_system_evasion_techniques)
+* [Stateful firewall](https://en.wikipedia.org/wiki/Stateful_firewall)
+* [Application firewall](https://en.wikipedia.org/wiki/Application_firewall)
+* [Web application firewall](https://en.wikipedia.org/wiki/Web_application_firewall)
 * Tools: [Snort](https://www.snort.org/), [KFSensor](http://www.keyfocus.net/kfsensor/), [HoneyBot](http://www.atomicsoftwaresolutions.com/), [Security Onion](https://github.com/Security-Onion-Solutions/security-onion), [HoneyDrive](http://bruteforcelab.com/honeydrive)
 * Resources: 
+  * [Intrusion Detection Message Exchange Format](https://en.wikipedia.org/wiki/Intrusion_Detection_Message_Exchange_Format)
   * [Awesome-Honeypots](https://github.com/paralax/awesome-honeypots)
   * [NIST SP 800 94 Guide to Intrusion Detection
 and Prevention Systems ](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-94.pdf)
