@@ -322,6 +322,7 @@ and Prevention Systems ](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialp
   * [NIST SP 800 61 Computer Security Incident Handling Guide](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
   * [ENISA training material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
   * [CERT Societe Generale Incident Response Methodologies](https://github.com/certsocietegenerale/IRM)
+  * [OWASP Incident Response Project](https://www.owasp.org/index.php/OWASP_Incident_Response_Project)
 
 ## [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 * [Software cracking](https://en.wikipedia.org/wiki/Software_cracking)
