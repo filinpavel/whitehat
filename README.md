@@ -152,6 +152,7 @@ Method:
   * [APT notes](https://github.com/aptnotes/data)
   * [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware)
   * [Awesome Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
+  * [NIST SP 800-83 Rev 1 Guide to Malware Incident Prevention and Handling for Desktops and Laptops](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-83r1.pdf)
 
 ## Sniffing
 * [Promiscuous mode](https://en.wikipedia.org/wiki/Promiscuous_mode)
@@ -281,6 +282,7 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
   * [OWASP Mobile Security Project](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Controls)
   * [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg/)
   * [US-CERT Cyber Threats to Mobile Devices](https://www.us-cert.gov/security-publications/technical-information-paper-cyber-threats-mobile-devices)
+  * [NIST SP 800-101 Rev 1 Guidelines on Mobile Device Forensics](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-101r1.pdf)
 
 ## Evading [IDS](https://en.wikipedia.org/wiki/Intrusion_detection_system), [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) and [Honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 * Network-based Intrusion Detection System
