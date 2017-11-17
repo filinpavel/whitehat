@@ -101,7 +101,7 @@ Method:
    * [HMAC-based One-time Password Algorithm](https://en.wikipedia.org/wiki/HMAC-based_One-time_Password_Algorithm), [RFC4226](https://tools.ietf.org/html/rfc4226)
    * [Biometrics](https://en.wikipedia.org/wiki/Biometrics)
      * Resources:
-       * 
+       * [NIST SP 800-76-2 Biometric Specifications for Personal Identity Verification](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-76-2.pdf)
   * [Authorization](https://en.wikipedia.org/wiki/Authorization)
   * [Access control](https://en.wikipedia.org/wiki/Access_control)
     * [Password policy](https://en.wikipedia.org/wiki/Password_policy)
