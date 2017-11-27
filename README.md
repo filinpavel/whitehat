@@ -413,6 +413,7 @@ and Prevention Systems ](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialp
 ## Cybersecurity Standarts and Documents
 * [Penetration Testing Execution Standart](http://www.pentest-standard.org/index.php/Main_Page)
   * [PTES Technical Guidelines](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
+* [Penetration Testing Execution Standard Documentation unoficial fork](https://media.readthedocs.org/pdf/pentest-standard/latest/pentest-standard.pdf)
 * [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
   * [OWASP Testing Project](https://www.owasp.org/index.php/OWASP_Testing_Project)
 * [Open Source Security Testing Methodology Manual (OSSTMM)](http://www.isecom.org/research/osstmm.html)
