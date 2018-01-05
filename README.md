@@ -428,7 +428,7 @@ and Prevention Systems ](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialp
 * [ISO/IEC 15408-3:2008 Evaluation criteria for IT security -- Part 3: Security assurance components](http://standards.iso.org/ittf/PubliclyAvailableStandards/c046413_ISO_IEC_15408-3_2008.zip)
 * [RFC 2196 Site Security Handbook](https://tools.ietf.org/html/rfc2196)
 * [Payment Card Industry Data Security Standard](https://www.pcisecuritystandards.org/document_library)
-  * [Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration_Testing_Guidance_March_2015.pdf)
+  * [Penetration Testing Guidance 1.1](https://www.pcisecuritystandards.org/documents/Penetration-Testing-Guidance-v1_1.pdf)
   * [PIN Security Requirements](https://www.pcisecuritystandards.org/documents/PCI_PIN_Security_Requirements_v2.pdf)
 * [Cybersecurity Framework](https://www.nist.gov/cyberframework)
 * [Information Systems Security Assessment Framework (ISSAF)](http://www.oissg.org/issaf)
