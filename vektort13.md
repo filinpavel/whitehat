@@ -1,8 +1,11 @@
-
-    1. Дмитрий Момот Системы уникализации и идентификации пользователей в сети.
-    2. Patch_it! Patch Firefox - [](https://goo.gl/nT3wm4) Browser (non official) - [](https://goo.gl/e881Mi)
-    3. 1. IP 1.1 Страна, регион, город 1.2 DNS/PTR запись 1.3 Открытые порты и поверхностная идентификация приложений 1.4 Passive OS Fingerprint 1.5 Часовой пояс 1.6 Онлайн статус 1.7 Proxy/VPN/TOR 1.8 Член клуба «Девять глаз» 1.9 Торрент статус 1.10 ASN
+    - Дмитрий Момот Системы уникализации и идентификации пользователей в сети.
+    
+    - Patch_it! Patch Firefox - [](https://goo.gl/nT3wm4) Browser (non official) - [](https://goo.gl/e881Mi)
+    
+    - IP 1.1 Страна, регион, город 1.2 DNS/PTR запись 1.3 Открытые порты и поверхностная идентификация приложений 1.4 Passive OS Fingerprint 1.5 Часовой пояс 1.6 Онлайн статус 1.7 Proxy/VPN/TOR 1.8 Член клуба «Девять глаз» 1.9 Торрент статус 1.10 ASN
+    
     - Geo Test Page - [](https://www.tcpiputils.com/ip-geo-location)
+    
     5. 1.2 DNS/PRT Record Test Page - [](https://www.tcpiputils.com/browse/ip-address)
     6. 1.3 Open Ports Test Page - [](http://whatleaks.com/)
     7. 1.4 Passive OS FP Test Page - [](http://witch.valdikss.org.ru/)
