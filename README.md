@@ -258,32 +258,30 @@ Wireless Terminologies
   * [OFDM](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing)
   * MIMO-OFDM
   * [DSSS](https://en.wikipedia.org/wiki/Direct-sequence_spread_spectrum)
-  * FHSS
+  * [FHSS](https://en.wikipedia.org/wiki/Frequency-hopping_spread_spectrum)
   * SSID
   * TKIP
   * LEAP  
-  * EAP
+  * [EAP](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol)
  Wireless Networks
- Advantages of Wireless Networks
- Disadvantages of Wireless Networks
  Wireless Standard
  Wireless Topologies
- Ad-hoc Standalone Network Architecture (IBSS - Independent Basic Service Set)
+ [Ad-hoc Standalone Network Architecture (IBSS - Independent Basic Service Set)](https://en.wikipedia.org/wiki/Wireless_ad_hoc_network)
  Infrastructure Network Topology (Centrally Coordinated Architecture/ BSS - Basic Service Set)
  Typical Use of Wireless Networks
  Extension to a Wired Network
  Multiple Access Points
  LAN-to-LAN Wireless Network
- 3G Hotspot
+ [3G](https://en.wikipedia.org/wiki/3G) [Hotspot](https://en.wikipedia.org/wiki/Hotspot_(Wi-Fi))
 
  Components of Wireless Network
 * [Wireless Access Point](https://en.wikipedia.org/wiki/Wireless_access_point)
-• Wireless Cards (NIC)
-• Wireless Modem
-• Wireless Bridge
-• Wireless Repeater
+ Wireless Cards (NIC)
+ Wireless Modem
+ Wireless Bridge
+ Wireless Repeater
 * [Wireless Router](https://en.wikipedia.org/wiki/Wireless_router)
-* Wireless Gateways
+* [Wireless Gateway](https://en.wikipedia.org/wiki/Wireless_gateway)
 * Wireless USB Adapter
 * [Antenna](https://en.wikipedia.org/wiki/Antenna_(radio))
 * [Directional Antenna](https://en.wikipedia.org/wiki/Directional_antenna)
@@ -291,11 +289,10 @@ Wireless Terminologies
 * [Dipole Antenna](https://en.wikipedia.org/wiki/Dipole_antenna)
 * [Omnidirectional Antenna](https://en.wikipedia.org/wiki/Omnidirectional_antenna)
 * [Yagi Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna) 
-o Reflector Antennas
- WEP (Wired Equivalent Privacy) Encryption
- WPA (Wi-Fi Protected Access) Encryption
- WPA2 Encryption
- WEP vs. WPA vs. WPA2
+* Reflector Antennas
+* [WEP (Wired Equivalent Privacy) Encryption](https://en.wikipedia.org/wiki/Wired_Equivalent_Privacy)
+* [WPA (Wi-Fi Protected Access) Encryption](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
+* [WPA2 Encryption](https://en.wikipedia.org/wiki/IEEE_802.11i-2004)
  Wi-Fi Authentication Method
  Open System Authentication
  Shared Key Authentication
@@ -380,6 +377,7 @@ Additional Wireless Network Security Guidelines
 * [Monitor mode](https://en.wikipedia.org/wiki/Monitor_mode)
 * [Rogue Access Point](https://en.wikipedia.org/wiki/Rogue_access_point)
 * [Wardriving](https://en.wikipedia.org/wiki/Wardriving)
+  * [Warchalking](https://en.wikipedia.org/wiki/Warchalking)
 * [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
 
 * Tools: [aircrack-ng](http://www.aircrack-ng.org/), [CommView for Wifi](http://www.tamos.com/products/commwifi/), [Kismet](http://www.kismetwireless.net/)
