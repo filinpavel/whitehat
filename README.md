@@ -253,9 +253,125 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 * Tools: [SQLmap](http://sqlmap.org/), [WebCruiser](http://www.janusec.com/product/webcruiser-web-vulnerability-scanner/),[IBM Security AppScan](http://www-03.ibm.com/software/products/ru/appscan)
 
 ## [Hacking Wireless](https://en.wikipedia.org/wiki/Wireless_security) Networks
+
+Wireless Terminologies
+  * [OFDM](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing)
+  * MIMO-OFDM
+  * [DSSS](https://en.wikipedia.org/wiki/Direct-sequence_spread_spectrum)
+  * FHSS
+  * SSID
+  * TKIP
+  * LEAP  
+  * EAP
+ Wireless Networks
+ Advantages of Wireless Networks
+ Disadvantages of Wireless Networks
+ Wireless Standard
+ Wireless Topologies
+ Ad-hoc Standalone Network Architecture (IBSS - Independent Basic Service Set)
+ Infrastructure Network Topology (Centrally Coordinated Architecture/ BSS - Basic Service Set)
+ Typical Use of Wireless Networks
+ Extension to a Wired Network
+ Multiple Access Points
+ LAN-to-LAN Wireless Network
+ 3G Hotspot
+
+ Components of Wireless Network
+* [Wireless Access Point](https://en.wikipedia.org/wiki/Wireless_access_point)
+• Wireless Cards (NIC)
+• Wireless Modem
+• Wireless Bridge
+• Wireless Repeater
+* [Wireless Router](https://en.wikipedia.org/wiki/Wireless_router)
+* Wireless Gateways
+* Wireless USB Adapter
+* [Antenna](https://en.wikipedia.org/wiki/Antenna_(radio))
+* [Directional Antenna](https://en.wikipedia.org/wiki/Directional_antenna)
+* [Parabolic Grid Antenna](https://en.wikipedia.org/wiki/Parabolic_antenna)
+* [Dipole Antenna](https://en.wikipedia.org/wiki/Dipole_antenna)
+* [Omnidirectional Antenna](https://en.wikipedia.org/wiki/Omnidirectional_antenna)
+* [Yagi Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna) 
+o Reflector Antennas
+ WEP (Wired Equivalent Privacy) Encryption
+ WPA (Wi-Fi Protected Access) Encryption
+ WPA2 Encryption
+ WEP vs. WPA vs. WPA2
+ Wi-Fi Authentication Method
+ Open System Authentication
+ Shared Key Authentication
+ Wi-Fi Authentication Process Using a Centralized Authentication Server
+ Wireless Network Threats
+ [War Driving](https://en.wikipedia.org/wiki/Wardriving)
+ Client Mis-association
+ Unauthorized Association
+ [HoneySpot Access Point (Evil Twin) Attack](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))
+ [Rogue Access Point Attack](https://en.wikipedia.org/wiki/Rogue_access_point)
+ Misconfigured Access Point Attack
+ Ad Hoc Connection Attack
+ AP MAC Spoofing
+ Denial-of-Service Attack
+ WPA-PSK Cracking
+ RADIUS Replay
+ ARP Poisoning Attack
+ WEP Cracking
+ [Man-in-the-Middle Attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+ Fragmentation Attack
+ [Jamming Signal](https://en.wikipedia.org/wiki/Radio_jamming) Attack
+
+ Bluetooth Threats
+ Leaking Calendars and Address Books
+ Bugging Devices
+ Sending SMS Messages
+ Causing Financial Losses
+ Remote Control
+ Social Engineering
+ Malicious Code
+ Protocol Vulnerabilities
+
+ [Wireless Network Security](https://en.wikipedia.org/wiki/Wireless_security)
+
+ Creating Inventory of Wireless Devices 
+ Placement of Wireless AP
+ Placement of Wireless Antenna
+ Disable SSID Broadcasting
+ Selecting Stronger Wireless Encryption Mode
+ Implementing MAC Address Filtering
+ Monitoring Wireless Network Traffic
+ Defending Against WPA Cracking
+ Passphrases
+ Client Settings
+ Passphrase Complexity
+ Additional Controls
+ Detecting Rogue Access Points
+ Wireless Scanning:
+ Wired-side Network Scanning
+ SNMP Polling
+
+ Wi-Fi Discovery Tools
+ inSSIDer and NetSurveyor
+ Vistumbler and NetStumbler
+ Locating Rogue Access points
+ Protecting from Denial-of-Service Attacks: Interference
+ Assessing Wireless Network Security
+ Wi-Fi Security Auditing Tool: AirMagnet WiFi Analyzer
+
+ WPA Security Assessment Tool
+ Elcomsoft Wireless Security Auditor
+* [Cain & Abel](http://www.oxid.it/cain.html)
+ Wi-Fi Vulnerability Scanning Tools
+ Deploying Wireless IDS (WIDS) and Wireless IPS (WIPS)
+ Typical Wireless IDS/IPS Deployment
+
+WIPS Tool
+Adaptive Wireless IPS
+AirDefense
+Configuring Security on Wireless Routers
+Additional Wireless Network Security Guidelines
+
+
 * [Wireless Network](https://en.wikipedia.org/wiki/Wireless_LAN)
-* [OFDM](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing)
-* [DSSS](https://en.wikipedia.org/wiki/Direct-sequence_spread_spectrum)
+* 
+* 
 * [Service Set](https://en.wikipedia.org/wiki/Service_set_(802.11_network))
 * [Wired Equivalent Privacy](https://en.wikipedia.org/wiki/Wired_Equivalent_Privacy)
 * [WIFi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
@@ -412,7 +528,7 @@ and Prevention Systems ](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialp
     * [Darknet](https://en.wikipedia.org/wiki/Darknet)
  * [Secure messaging](https://en.wikipedia.org/wiki/Secure_messaging)
    * [Off-the-record Messaging](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
-## Cybersecurity Standarts and Documents
+## Standarts and Documents
 * [Penetration Testing Execution Standart](http://www.pentest-standard.org/index.php/Main_Page)
   * [PTES Technical Guidelines](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
   * [Penetration Testing Execution Standard Documentation unoficial fork](https://media.readthedocs.org/pdf/pentest-standard/latest/pentest-standard.pdf)
