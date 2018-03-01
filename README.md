@@ -289,7 +289,7 @@ Wireless Terminologies
 * [Dipole Antenna](https://en.wikipedia.org/wiki/Dipole_antenna)
 * [Omnidirectional Antenna](https://en.wikipedia.org/wiki/Omnidirectional_antenna)
 * [Yagi Antenna](https://en.wikipedia.org/wiki/Yagi%E2%80%93Uda_antenna) 
-* Reflector Antennas
+* [Reflector Antenna](https://en.wikipedia.org/wiki/Reflector_(antenna))
 * [WEP (Wired Equivalent Privacy) Encryption](https://en.wikipedia.org/wiki/Wired_Equivalent_Privacy)
 * [WPA (Wi-Fi Protected Access) Encryption](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
 * [WPA2 Encryption](https://en.wikipedia.org/wiki/IEEE_802.11i-2004)
@@ -298,7 +298,8 @@ Wireless Terminologies
  Shared Key Authentication
  Wi-Fi Authentication Process Using a Centralized Authentication Server
  Wireless Network Threats
- [War Driving](https://en.wikipedia.org/wiki/Wardriving)
+ * [Wardriving](https://en.wikipedia.org/wiki/Wardriving)
+  * [Warchalking](https://en.wikipedia.org/wiki/Warchalking)
  Client Mis-association
  Unauthorized Association
  [HoneySpot Access Point (Evil Twin) Attack](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))
@@ -376,8 +377,7 @@ Additional Wireless Network Security Guidelines
 * [CCMP](https://en.wikipedia.org/wiki/CCMP)
 * [Monitor mode](https://en.wikipedia.org/wiki/Monitor_mode)
 * [Rogue Access Point](https://en.wikipedia.org/wiki/Rogue_access_point)
-* [Wardriving](https://en.wikipedia.org/wiki/Wardriving)
-  * [Warchalking](https://en.wikipedia.org/wiki/Warchalking)
+
 * [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
 
 * Tools: [aircrack-ng](http://www.aircrack-ng.org/), [CommView for Wifi](http://www.tamos.com/products/commwifi/), [Kismet](http://www.kismetwireless.net/)
