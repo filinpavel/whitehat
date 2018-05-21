@@ -188,21 +188,21 @@ Method:
 ## [Session Hacking](https://en.wikipedia.org/wiki/Session_hijacking)
 * [Spoofing](https://en.wikipedia.org/wiki/Spoofing_attack)
 * Application Level Session hijacking:
- * [Session fixation](https://en.wikipedia.org/wiki/Session_fixation)
- * [Cross-site scripting (XSS)](https://en.wikipedia.org/wiki/Cross-site_scripting)
- * [Cross-site Request Forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
- * [Browser hijacking](https://en.wikipedia.org/wiki/Browser_hijacking)
- * [Session poisoning](https://en.wikipedia.org/wiki/Session_poisoning)
- * [Man-in-the-browser](https://en.wikipedia.org/wiki/Man-in-the-browser)
- * [Man-in-the-middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
- * [Session Replay](https://en.wikipedia.org/wiki/Session_replay)
+  * [Session fixation](https://en.wikipedia.org/wiki/Session_fixation)
+  * [Cross-site scripting (XSS)](https://en.wikipedia.org/wiki/Cross-site_scripting)
+  * [Cross-site Request Forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+  * [Browser hijacking](https://en.wikipedia.org/wiki/Browser_hijacking)
+  * [Session poisoning](https://en.wikipedia.org/wiki/Session_poisoning)
+  * [Man-in-the-browser](https://en.wikipedia.org/wiki/Man-in-the-browser)
+  * [Man-in-the-middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+  * [Session Replay](https://en.wikipedia.org/wiki/Session_replay)
 * Network-level Session Hijacking:
- * [IP Spoofing](https://en.wikipedia.org/wiki/IP_address_spoofing)
- * [Packet Sniffing](https://en.wikipedia.org/wiki/Packet_analyzer)
- * TCP/IP Hijacking
- * UDP Hijacking
- * Blind Hijacking
- * [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
+  * [IP Spoofing](https://en.wikipedia.org/wiki/IP_address_spoofing)
+  * [Packet Sniffing](https://en.wikipedia.org/wiki/Packet_analyzer)
+  * TCP/IP Hijacking
+  * UDP Hijacking
+  * Blind Hijacking
+* [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
 * [IPSec](https://en.wikipedia.org/wiki/IPsec),[RFC7296](https://www.rfc-editor.org/rfc/rfc7296.txt)
 * Tools: [OWASP Zaproxy](https://github.com/zaproxy/zaproxy), [Burp Suite](https://portswigger.net/burp/), [Firebug](https://developer.mozilla.org/en-US/docs/Tools), [Cain and Abel](http://www.oxid.it/cain.html), [Ettercap](https://ettercap.github.io/ettercap/), [sslstrip](https://github.com/moxie0/sslstrip),[Websploit](http://sourceforge.net/projects/websploit/), DroidSheep, DroidSniff
 
@@ -239,7 +239,7 @@ Functional Specification](https://samate.nist.gov/docs/webapp_scanner_spec_sp500
 * [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting)
   * Tools: [XSSer](https://xsser.03c8.net/)
 * [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
-* Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](https://www.netsparker.com/web-vulnerability-scanner/), [W3AF](https://github.com/andresriancho/w3af), [WPScan](), [Joomscan](),[BeEF](http://beefproject.com/), [N-Stalker](http://www.nstalker.com/products/editions/free/)
+* Tools: [Acunetix WVS](https://www.acunetix.com/vulnerability-scanner/), [Netsparker](https://www.netsparker.com/web-vulnerability-scanner/), [W3AF](https://github.com/andresriancho/w3af), [WPScan](https://github.com/wpscanteam/wpscan), [Joomscan](https://github.com/rezasp/joomscan),[BeEF](http://beefproject.com/), [N-Stalker](http://www.nstalker.com/products/editions/free/)
 * Resources: 
   * [Awesome-Web-Hacking](https://github.com/infoslack/awesome-web-hacking)
   * [WASC Threat Classification](http://projects.webappsec.org/w/page/13246978/Threat%20Classification)
@@ -263,23 +263,24 @@ Wireless Terminologies
   * TKIP
   * LEAP  
   * [EAP](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol)
- Wireless Networks
- Wireless Standard
- Wireless Topologies
- [Ad-hoc Standalone Network Architecture (IBSS - Independent Basic Service Set)](https://en.wikipedia.org/wiki/Wireless_ad_hoc_network)
+  * Wireless Networks
+ * Wireless Standard
+ * Wireless Topologies
+ * [Ad-hoc Standalone Network Architecture (IBSS - Independent Basic Service Set)](https://en.wikipedia.org/wiki/Wireless_ad_hoc_network)
  Infrastructure Network Topology (Centrally Coordinated Architecture/ BSS - Basic Service Set)
- Typical Use of Wireless Networks
- Extension to a Wired Network
- Multiple Access Points
- LAN-to-LAN Wireless Network
- [3G](https://en.wikipedia.org/wiki/3G) [Hotspot](https://en.wikipedia.org/wiki/Hotspot_(Wi-Fi))
+ * Typical Use of Wireless Networks
+ * Extension to a Wired Network
+ * Multiple Access Points
+ * LAN-to-LAN Wireless Network
+ * [3G](https://en.wikipedia.org/wiki/3G) 
+ * [Hotspot](https://en.wikipedia.org/wiki/Hotspot_(Wi-Fi))
 
  Components of Wireless Network
 * [Wireless Access Point](https://en.wikipedia.org/wiki/Wireless_access_point)
- Wireless Cards (NIC)
- Wireless Modem
- Wireless Bridge
- Wireless Repeater
+* Wireless Cards (NIC)
+* Wireless Modem
+* Wireless Bridge
+* Wireless Repeater
 * [Wireless Router](https://en.wikipedia.org/wiki/Wireless_router)
 * [Wireless Gateway](https://en.wikipedia.org/wiki/Wireless_gateway)
 * Wireless USB Adapter
@@ -300,31 +301,32 @@ Wireless Terminologies
  Wireless Network Threats
  * [Wardriving](https://en.wikipedia.org/wiki/Wardriving)
   * [Warchalking](https://en.wikipedia.org/wiki/Warchalking)
- Client Mis-association
- Unauthorized Association
- [HoneySpot Access Point (Evil Twin) Attack](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))
- [Rogue Access Point Attack](https://en.wikipedia.org/wiki/Rogue_access_point)
- Misconfigured Access Point Attack
- Ad Hoc Connection Attack
- AP MAC Spoofing
- Denial-of-Service Attack
- WPA-PSK Cracking
- RADIUS Replay
- ARP Poisoning Attack
- WEP Cracking
- [Man-in-the-Middle Attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
- Fragmentation Attack
- [Jamming Signal](https://en.wikipedia.org/wiki/Radio_jamming) Attack
+ * Client Mis-association
+ * Unauthorized Association
+ * [HoneySpot Access Point (Evil Twin) Attack](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))
+ * [Rogue Access Point Attack](https://en.wikipedia.org/wiki/Rogue_access_point)
+ * Misconfigured Access Point Attack
+ * Ad Hoc Connection Attack
+ * AP MAC Spoofing
+ * Denial-of-Service Attack
+ * WPA-PSK Cracking
+ * RADIUS [Replay](https://en.wikipedia.org/wiki/Replay_attack)
+ * ARP Poisoning Attack
+ * WEP Cracking
+ * [Man-in-the-Middle Attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+ * Fragmentation Attack
+ * [Jamming Signal](https://en.wikipedia.org/wiki/Radio_jamming) Attack
 
  Bluetooth Threats
- Leaking Calendars and Address Books
- Bugging Devices
- Sending SMS Messages
- Causing Financial Losses
- Remote Control
- Social Engineering
- Malicious Code
- Protocol Vulnerabilities
+ 
+ * Leaking Calendars and Address Books
+ * Bugging Devices
+ * Sending SMS Messages
+ * Causing Financial Losses
+ * Remote Control
+ * Social Engineering
+ * Malicious Code
+ * Protocol Vulnerabilities
 
  [Wireless Network Security](https://en.wikipedia.org/wiki/Wireless_security)
 
@@ -346,25 +348,28 @@ Wireless Terminologies
  SNMP Polling
 
  Wi-Fi Discovery Tools
- inSSIDer and NetSurveyor
- Vistumbler and NetStumbler
- Locating Rogue Access points
- Protecting from Denial-of-Service Attacks: Interference
- Assessing Wireless Network Security
- Wi-Fi Security Auditing Tool: AirMagnet WiFi Analyzer
+ 
+ * inSSIDer and NetSurveyor
+ * Vistumbler and NetStumbler
+ * Locating Rogue Access points
+ * Protecting from Denial-of-Service Attacks: Interference
+ * Assessing Wireless Network Security
+ * Wi-Fi Security Auditing Tool: AirMagnet WiFi Analyzer
 
  WPA Security Assessment Tool
- Elcomsoft Wireless Security Auditor
+ 
+* [Elcomsoft Wireless Security Auditor](https://www.elcomsoft.com/ewsa.html)
 * [Cain & Abel](http://www.oxid.it/cain.html)
- Wi-Fi Vulnerability Scanning Tools
- Deploying Wireless IDS (WIDS) and Wireless IPS (WIPS)
- Typical Wireless IDS/IPS Deployment
+* Wi-Fi Vulnerability Scanning Tools
+* Deploying Wireless IDS (WIDS) and Wireless IPS (WIPS)
+* Typical Wireless IDS/IPS Deployment
 
 WIPS Tool
+
 Adaptive Wireless IPS
-AirDefense
-Configuring Security on Wireless Routers
-Additional Wireless Network Security Guidelines
+* AirDefense
+* Configuring Security on Wireless Routers
+* Additional Wireless Network Security Guidelines
 
 
 * [Wireless Network](https://en.wikipedia.org/wiki/Wireless_LAN)
@@ -426,10 +431,10 @@ and Prevention Systems ](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialp
    * Network and Process Information
    * Parsing Registry
    * User Activity
-   * Cache, Cookie and Browser History Analysis
+   * Cache, [Cookie](https://en.wikipedia.org/wiki/HTTP_cookie) and [Browser History](https://en.wikipedia.org/wiki/Web_browsing_history) Analysis
    * Checking [Integrity](https://en.wikipedia.org/wiki/File_verification)
-   * Searching with Event Viewer
- * Tools: [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html), [AutoPsy](https://www.sleuthkit.org/autopsy/),[Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [PowerForensics](https://github.com/Invoke-IR/PowerForensics), [bitscout](https://github.com/vitaly-kamluk/bitscout)
+   * Searching with [Event Viewer](https://en.wikipedia.org/wiki/Event_Viewer)
+ * Tools: [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html), [AutoPsy](https://www.sleuthkit.org/autopsy/),[Sysinternals](https://live.sysinternals.com/), [ESET SysInspector](https://www.eset.com/int/support/sysinspector/), [PowerForensics](https://github.com/Invoke-IR/PowerForensics), [bitscout](https://github.com/vitaly-kamluk/bitscout), [get-winevent](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent)
 * Resources: 
   * [Awesome-Forensics](https://github.com/Cugu/awesome-forensics)
   * [Awesome-Incident-Response](https://github.com/meirwah/awesome-incident-response)
