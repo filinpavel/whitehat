@@ -549,6 +549,10 @@ and Prevention Systems ](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialp
 * [Payment Card Industry Data Security Standard](https://www.pcisecuritystandards.org/document_library)
   * [Penetration Testing Guidance 1.1](https://www.pcisecuritystandards.org/documents/Penetration-Testing-Guidance-v1_1.pdf)
   * [PIN Security Requirements](https://www.pcisecuritystandards.org/documents/PCI_PIN_Security_Requirements_v2.pdf)
-* [Cybersecurity Framework](https://www.nist.gov/cyberframework)
+* [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 * [Information Systems Security Assessment Framework (ISSAF)](http://www.oissg.org/issaf)
+* [Israel Cyber Defense Methodology for an organization](https://www.gov.il/BlobFolder/policy/cyber_security_methodology_for_organizations/he/Cyber1.0_english_617_A4.pdf)
+* [Australian Government Information Security Manual](https://www.acsc.gov.au/infosec/ism/index.htm)
+* [French National Digital Security Strategy](https://www.ssi.gouv.fr/en/actualite/the-french-national-digital-security-strategy-meeting-the-security-challenges-of-the-digital-world/)
+* [European Union NIS Directive](http://data.europa.eu/eli/dir/2016/1148/oj)
 
