@@ -1,2 +1,0 @@
-# cybersecurity :orange_book:  
- 
